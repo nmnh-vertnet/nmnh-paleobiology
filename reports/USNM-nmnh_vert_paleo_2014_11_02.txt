@@ -1,0 +1,99 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 1192
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Germany ; Times: 19
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 1
+	Date: 2014-10-13 ; Times: 1
+	Date: 2014-10-15 ; Times: 3
+	Date: 2014-10-16 ; Times: 2
+	Date: 2014-10-19 ; Times: 2
+	Date: 2014-10-20 ; Times: 5
+	Date: 2014-10-22 ; Times: 11
+	Date: 2014-10-23 ; Times: 5
+	Date: 2014-10-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Protoceratops" ; Times: 1
+	Query: "Mammuthus primigenius" ; Times: 3
+	Query: "plesiadapis fossil:1" ; Times: 5
+	Query: "Mammuthus primigenius Siberia" ; Times: 1
+	Query: "Odobenus fossil:1" ; Times: 14
+	Query: "Tyrannosaurus" ; Times: 1
+	Query: "Alligator mississippiensis texas" ; Times: 1
+	Query: "genus:limosa fossil:1" ; Times: 5
+	Query: "Eschrichtius robustus fossil:1" ; Times: 1
+	Query: "county:"Hamilton" stateprovince:"texas"" ; Times: 1
+	Query: "USNM tayassuidae" ; Times: 3
+	Query: "stateprovince:"new mexico" specificepithet:corax genus:corvus AND (NOT egg NOT eggs) year >= 1924 year <= 1954" ; Times: 1
+	Query: ""erethizon dorsatum" fossil:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 166 download events in this period)
+Total number of records downloaded: 502 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 502
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-13 ; Times: 2
+	Date: 2014-10-14 ; Times: 1
+	Date: 2014-10-16 ; Times: 1
+	Date: 2014-10-20 ; Times: 1
+	Date: 2014-10-22 ; Times: 2
+	Date: 2014-10-23 ; Times: 1
+	Date: 2014-10-25 ; Times: 1
+	Date: 2014-10-27 ; Times: 2
+	Date: 2014-10-28 ; Times: 1
+	Date: 2014-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:montezumae" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "octodontidae" ; Times: 1
+	Query: "stateprovince:"Colorado" class:Mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "Parulidae institutioncode:USNM" ; Times: 1
+	Query: "stateprovince:"Indiana" class:Mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "stateprovince:"Texas" class:Amphibia year >= 1888 year <= 2014" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 253
+Total number of records retrieved from searches: 5369
+Number of download events that retrieved data from the resource: 137
+Total number of records downloaded: 25862
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 253
+Total number of records retrieved from searches: 5369
+Number of download events that retrieved data from the resource: 137
+Total number of records downloaded: 25862
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
