@@ -1,0 +1,143 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 367
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Italy ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 4
+	Date: 2015-10-04 ; Times: 4
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 9
+	Date: 2015-10-01 ; Times: 5
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-14 ; Times: 3
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-29 ; Times: 2
+	Date: 2015-10-28 ; Times: 8
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-26 ; Times: 3
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Tropidophis AND (NOT CUBA) institutioncode:USNM" ; Times: 1
+	Query: "Steinius media:1 fossil:1" ; Times: 1
+	Query: "Hemiacodon media:1 fossil:1" ; Times: 1
+	Query: "stangerochampsa" ; Times: 1
+	Query: "smilodon fatalis" ; Times: 3
+	Query: "Enhydra lutris lutris institutioncode:USNM" ; Times: 1
+	Query: "type:specimen genus:Moho" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 4
+	Query: "diplodocus" ; Times: 7
+	Query: "Crenidens" ; Times: 1
+	Query: "Arapahovius media:1 fossil:1" ; Times: 1
+	Query: "Tatmanius media:1 fossil:1" ; Times: 1
+	Query: "brachychampsa" ; Times: 1
+	Query: "Mammuthus columbi country:&#34;Mexico&#34; fossil:1" ; Times: 1
+	Query: "balaenoptera massachusetts" ; Times: 2
+	Query: "Tyrannosaurus" ; Times: 1
+	Query: "Omomys media:1 fossil:1" ; Times: 1
+	Query: "crenidens crenidens" ; Times: 2
+	Query: "boidae media:1" ; Times: 3
+	Query: "cryptobranchus" ; Times: 1
+	Query: "stateprovince:&#34;Utah&#34; recordedby:Hall" ; Times: 1
+	Query: "class:Mammalia county:&#34;Natchitoches&#34;" ; Times: 1
+	Query: "dasypus bellus" ; Times: 4
+	Query: "Nestor meridionalis" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 823 download events in this period)
+Total number of records downloaded: 11961
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Canada ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 2
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-14 ; Times: 2
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-10 ; Times: 4
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 6
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-30 ; Times: 6
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-29 ; Times: 3
+	Date: 2015-10-31 ; Times: 4
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 2
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; fossil:1" ; Times: 1
+	Query: "bison priscus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "ERETHIZON CANADA" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Erethizon (Canada)" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "order:primates" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "thamnophis radix" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "erethizon canada" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "(amphibia) fossil:1" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "type:specimen class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+
+
+End of report.
