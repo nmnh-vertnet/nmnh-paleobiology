@@ -1,0 +1,169 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 1737
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 80
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 9
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-02 ; Times: 1
+	Date: 2015-09-10 ; Times: 15
+	Date: 2015-09-25 ; Times: 15
+	Date: 2015-09-12 ; Times: 1
+	Date: 2015-09-29 ; Times: 14
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-17 ; Times: 5
+	Date: 2015-09-18 ; Times: 11
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-20 ; Times: 10
+	Date: 2015-09-14 ; Times: 5
+	Date: 2015-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "allodesmus" ; Times: 1
+	Query: "Pinguinus impennis type:specimen" ; Times: 2
+	Query: "Peltophryne lemur" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;Virginia&#34; fossil:1" ; Times: 2
+	Query: "parasaurolophus" ; Times: 1
+	Query: "drymarchon couperi" ; Times: 1
+	Query: "enaliarctos emlongi" ; Times: 1
+	Query: "genus:Pterosphenus" ; Times: 1
+	Query: "stateprovince:&#34;west virginia&#34; genus:cryptobranchus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Dorchester&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "hadrosauridae" ; Times: 4
+	Query: "Martes americana fossil:1" ; Times: 1
+	Query: "peltophryne lemur" ; Times: 2
+	Query: "Geochelone gigantea" ; Times: 2
+	Query: "genus:Pseudemys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "hadrosaurus" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 8
+	Query: "Coendou" ; Times: 2
+	Query: "specificepithet:schucherti genus:Pterosphenus" ; Times: 1
+	Query: "genus:rangifer class:Mammalia year &gt;= 1920 year &lt;= 1922" ; Times: 1
+	Query: "pelycodus media:1 fossil:1" ; Times: 3
+	Query: "Dolichorhynchops" ; Times: 1
+	Query: "Cryptobranchus stateprovince:&#34;West Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "tyrannosaurus rex" ; Times: 1
+	Query: "martes americana fossil:1" ; Times: 1
+	Query: "peltophryne lemur type:specimen" ; Times: 2
+	Query: "Absarokius media:1 fossil:1" ; Times: 1
+	Query: "Pseudotriton stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "notorynchus cepedianus" ; Times: 1
+	Query: "&#34;FossilSpecimen&#34; specificepithet:rex" ; Times: 9
+	Query: "FossilSpecimen institutioncode:USNM" ; Times: 6
+	Query: "Dermoptera" ; Times: 17
+	Query: "class:osteichthyes media:1" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "allosaurus" ; Times: 1
+	Query: "tyrannosaurus" ; Times: 1
+	Query: "notorynchus" ; Times: 2
+	Query: "dermoptera" ; Times: 3
+	Query: "Ambystoma stateprovince:&#34;West Virginia&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 1045 download events in this period)
+Total number of records downloaded: 59805
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 5
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 45
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-01 ; Times: 4
+	Date: 2015-09-25 ; Times: 4
+	Date: 2015-09-22 ; Times: 5
+	Date: 2015-09-23 ; Times: 2
+	Date: 2015-09-10 ; Times: 12
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-02 ; Times: 2
+	Date: 2015-09-16 ; Times: 12
+	Date: 2015-09-17 ; Times: 1
+	Date: 2015-09-18 ; Times: 4
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-08 ; Times: 4
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "(Mammuthus )" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Rana pipiens" ; Times: 1
+	Query: "Manis gigantea" ; Times: 1
+	Query: "type:specimen genus:Moho" ; Times: 1
+	Query: "alsophis" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "family:cichlidae" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "specificepithet:wattsi genus:Anolis" ; Times: 1
+	Query: "genus:Pseudemys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Trachemys" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:bimaculatus genus:Anolis" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Elaphe obsoleta" ; Times: 2
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "hyla chrysoscelis" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "peltophryne lemur type:specimen" ; Times: 1
+	Query: "Scaphiopus" ; Times: 3
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "New Guinea" ; Times: 2
+	Query: "Gavia" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "genus:cichlasoma" ; Times: 1
+	Query: "Tamias striatus" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "dermoptera" ; Times: 2
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "year:1859" ; Times: 1
+
+
+End of report.
