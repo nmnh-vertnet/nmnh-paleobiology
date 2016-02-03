@@ -1,0 +1,126 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 155
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-20 ; Times: 2
+	Date: 2015-12-07 ; Times: 2
+	Date: 2015-12-06 ; Times: 2
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-15 ; Times: 2
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-31 ; Times: 1
+	Date: 2015-12-10 ; Times: 3
+	Date: 2015-12-11 ; Times: 4
+	Date: 2015-12-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:reptilia stateprovince:&#34;pennsylvania&#34; hastypestatus:1" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;pennsylvania&#34; media:1" ; Times: 1
+	Query: "Mammut borsoni" ; Times: 1
+	Query: "Spindalis portoricensis usnm" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Epicrates inornatus" ; Times: 1
+	Query: "Myotragus" ; Times: 2
+	Query: "Latimeria" ; Times: 1
+	Query: "type:specimen genus:Bison family:Bovidae institutioncode:USNM fossil:1" ; Times: 1
+	Query: "Zygolophodon" ; Times: 1
+	Query: "odobenus massachusetts" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;pennsylvania&#34; hastypestatus:1" ; Times: 1
+	Query: "Opheodrys vernalis west virginia" ; Times: 1
+	Query: "felis onca" ; Times: 1
+	Query: "type:specimen genus:Canis stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Otus nudipes type:specimen" ; Times: 1
+	Query: "tigrinum virginia" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 889 download events in this period)
+Total number of records downloaded: 684
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: Brazil ; Times: 4
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-27 ; Times: 3
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-02 ; Times: 3
+	Date: 2015-12-01 ; Times: 11
+	Date: 2015-12-26 ; Times: 2
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-24 ; Times: 7
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-25 ; Times: 6
+	Date: 2015-12-11 ; Times: 5
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-13 ; Times: 2
+	Date: 2015-12-10 ; Times: 2
+	Date: 2015-12-18 ; Times: 1
+	Date: 2015-12-19 ; Times: 2
+	Date: 2015-12-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Microtus miurus" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 5
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "specificepithet:canadensis genus:Lontra" ; Times: 1
+	Query: "specificepithet:taxus genus:Taxidea" ; Times: 2
+	Query: "Epicrates inornatus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "rio grande do sul" ; Times: 1
+	Query: "gyrinophilus porphyriticus" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "specificepithet:onca family:Felidae" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis" ; Times: 2
+	Query: "Panthera onca" ; Times: 3
+	Query: "family:Amiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "Pseudotriton (West Virginia)" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "enhydra" ; Times: 1
+	Query: "Gyrinophilus (West Virginia)" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 3
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "larimer aves" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "specificepithet:intermedius genus:Phenacomys" ; Times: 1
+	Query: "scaphiopus" ; Times: 1
+	Query: "Cryptobranchus (West Virginia)" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+
+
+End of report.
