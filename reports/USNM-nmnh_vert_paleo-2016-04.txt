@@ -1,0 +1,239 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 620
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Czech Republic ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Panama ; Times: 10
+	Country: United States ; Times: 33
+	Country: Dominican Republic ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-22 ; Times: 4
+	Date: 2016-04-15 ; Times: 3
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-26 ; Times: 3
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-19 ; Times: 8
+	Date: 2016-04-04 ; Times: 4
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-08 ; Times: 6
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-13 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "stereospondyli" ; Times: 1
+	Query: "CETORHINIDAE" ; Times: 1
+	Query: "MITSUKURINIDAE" ; Times: 1
+	Query: "RHINOPTERIDAE" ; Times: 1
+	Query: "genus:Globidens" ; Times: 1
+	Query: "Euoplocephalus" ; Times: 1
+	Query: "dasyatis americana" ; Times: 1
+	Query: "class:Reptilia county:&#34;Lancaster&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "diploglossus pleii" ; Times: 1
+	Query: "smilodon fatalis" ; Times: 1
+	Query: "Dissorophus" ; Times: 1
+	Query: "Stegosaurus" ; Times: 3
+	Query: "Dyoplosaurus" ; Times: 1
+	Query: "Monachus tropicalis" ; Times: 1
+	Query: "eryops" ; Times: 1
+	Query: "ECHINORHINIDAE" ; Times: 1
+	Query: "RHINCODONTIDAE" ; Times: 1
+	Query: "Mymoorapelta" ; Times: 1
+	Query: "aguti" ; Times: 2
+	Query: "PSEUDOCARCHARIIDAE" ; Times: 1
+	Query: "lepospondyli" ; Times: 1
+	Query: "Edmontonia" ; Times: 1
+	Query: "Cryptobranchus alleganiensis stateprovince:&#34;Virginia&#34; country:&#34;United States&#34; year &gt;= 1960 year &lt;= 2016" ; Times: 1
+	Query: "LAMPRIDAE" ; Times: 1
+	Query: "crotalus horridus maryland" ; Times: 1
+	Query: "thamnophis sirtalis (Nebraska)" ; Times: 1
+	Query: "cacops" ; Times: 1
+	Query: "dimetrodon" ; Times: 3
+	Query: "Chrysemys picta" ; Times: 2
+	Query: "genus:Neotoma stateprovince:&#34;Tennessee&#34;" ; Times: 4
+	Query: "usnm 3366922" ; Times: 1
+	Query: "Dorudon atrox" ; Times: 2
+	Query: "hydrodamalis gigas" ; Times: 1
+	Query: "coluber nebraska" ; Times: 1
+	Query: "LUVARIDAE" ; Times: 2
+	Query: "microtus pennsylvanicus tennessee" ; Times: 1
+	Query: "Ankylosaurus" ; Times: 1
+	Query: "Texasetes" ; Times: 1
+	Query: "Panoplosaurus" ; Times: 1
+	Query: "county:&#34;Jersey&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Cryptobranchus alleganiensis stateprovince:&#34;Virginia&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "MEGACHASMIDAE" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 131 (out of 1312 download events in this period)
+Total number of records downloaded: 39181
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Panama ; Times: 109
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-22 ; Times: 42
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-23 ; Times: 7
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-26 ; Times: 5
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 3
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-25 ; Times: 4
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-19 ; Times: 46
+
+List of queries that retrieved data from the resource: 
+	Query: "tamias striatus" ; Times: 1
+	Query: "GYMNURIDAE" ; Times: 1
+	Query: "LUTJANIDAE" ; Times: 1
+	Query: "DORADIDAE" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "BELONIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "ALBULIDAE" ; Times: 1
+	Query: "HEXANCHIDAE" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "Odocoileus" ; Times: 1
+	Query: "ACANTHURIDAE" ; Times: 2
+	Query: "PSEUDOCARCHARIIDAE" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "LUVARIDAE" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "order:testudines institutioncode:USNM" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "TRACHICHTHYIDAE" ; Times: 1
+	Query: "POMACENTRIDAE" ; Times: 1
+	Query: "heterodontidae" ; Times: 3
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "BERYCIDAE" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "BALISTIDAE" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "SCATOPHAGIDAE" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "HOLOCENTRIDAE" ; Times: 1
+	Query: "CETORHINIDAE" ; Times: 1
+	Query: "MITSUKURINIDAE" ; Times: 1
+	Query: "RHINOPTERIDAE" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;Virginia&#34; (county:Accomack OR county:Northampton )" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "ECHINORHINIDAE" ; Times: 1
+	Query: "AULOSTOMIDAE" ; Times: 1
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "APOGONIDAE" ; Times: 2
+	Query: "LAMNIDAE" ; Times: 1
+	Query: "ISTIOPHORIDAE" ; Times: 1
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "temnospondyli" ; Times: 1
+	Query: "lacm mammalia" ; Times: 1
+	Query: "POTAMOTRYGONIDAE" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "SOLEIDAE" ; Times: 1
+	Query: "MEGACHASMIDAE" ; Times: 1
+	Query: "GEMPYLIDAE" ; Times: 2
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "LOPHIIDAE" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 1
+	Query: "CENTROPOMIDAE" ; Times: 1
+	Query: "carcharhinidae" ; Times: 1
+	Query: "CLINIDAE" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "CENTRISCIDAE" ; Times: 1
+	Query: "CORYPHAENIDAE" ; Times: 1
+	Query: "POLYMIXIIDAE" ; Times: 1
+	Query: "MOBULIDAE" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "CARAPIDAE" ; Times: 2
+	Query: "MOLIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "EXOCOETIDAE" ; Times: 1
+	Query: "CHARACIDAE" ; Times: 1
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "BOTHIDAE" ; Times: 1
+	Query: "MALACANTHIDAE" ; Times: 1
+	Query: "URANOSCOPIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "ARGENTINIDAE" ; Times: 1
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "SPARIDAE" ; Times: 1
+	Query: "POMATOMIDAE" ; Times: 2
+	Query: "DASYATIDAE" ; Times: 1
+	Query: "ODONTASPIDIDAE" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "XIPHIIDAE" ; Times: 1
+	Query: "MORIDAE" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "RHINCODONTIDAE" ; Times: 1
+	Query: "CONGRIDAE" ; Times: 1
+	Query: "ARIIDAE" ; Times: 1
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "SCARIDAE" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "TRIAKIDAE" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "LAMPRIDAE" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "GINGLYMOSTOMATIDAE" ; Times: 1
+	Query: "PRISTIOPHORIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "EPHIPPIDAE" ; Times: 1
+
+
+End of report.
