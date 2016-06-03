@@ -1,0 +1,93 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 471
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-15 ; Times: 3
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-31 ; Times: 8
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-29 ; Times: 2
+	Date: 2016-05-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marsupialis genus:Didelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:glaucus genus:Eschrichtius" ; Times: 4
+	Query: "crotalus horridus maryland" ; Times: 2
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "Helladotherium" ; Times: 1
+	Query: "thamnophis sirtalis (nebraska)" ; Times: 1
+	Query: "Dimetrodon" ; Times: 4
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "solenodon paradoxus" ; Times: 1
+	Query: "country:&#34;italy&#34; hastypestatus:1 media:1" ; Times: 1
+	Query: "Mesohippus" ; Times: 1
+	Query: "siphonorhis brewsteri" ; Times: 2
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Bladen&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "vernalis west virginia" ; Times: 1
+	Query: "Miohippus" ; Times: 1
+	Query: "Dinictis" ; Times: 1
+	Query: "LACM Ziphiidae" ; Times: 1
+	Query: "Equus lambei" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 327 download events in this period)
+Total number of records downloaded: 633
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Unknown ; Times: 1
+	Country: China ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-31 ; Times: 20
+	Date: 2016-05-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marsupialis genus:Didelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "mongolia" ; Times: 1
+	Query: "gasterosteus" ; Times: 1
+	Query: "solenodon paradoxus" ; Times: 1
+	Query: "LACM Ziphiidae" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 10
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
