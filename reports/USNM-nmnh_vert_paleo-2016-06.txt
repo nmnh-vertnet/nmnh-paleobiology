@@ -1,0 +1,173 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 88
+Number of records retrieved in searches: 1224
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 84
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 18
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-23 ; Times: 5
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-21 ; Times: 14
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-05 ; Times: 7
+	Date: 2016-06-04 ; Times: 4
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-01 ; Times: 4
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-02 ; Times: 4
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-11 ; Times: 6
+	Date: 2016-06-07 ; Times: 1
+	Date: 2016-06-08 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Cervalces" ; Times: 1
+	Query: "Titanoides" ; Times: 1
+	Query: "Prosynthetoceras" ; Times: 2
+	Query: "Margarops fuscatus" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 2
+	Query: "bison bison   " ; Times: 6
+	Query: "Mimus trifasciatus" ; Times: 1
+	Query: "class:Chondrichthyes county:&#34;Graham&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 3
+	Query: "class:Chondrichthyes county:&#34;Gove&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 2
+	Query: "specificepithet:media genus:Sphyrna" ; Times: 2
+	Query: "Synthetoceras" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Tyrannosaurus rex" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 8
+	Query: "Geochelone gigantea" ; Times: 4
+	Query: "genyornis" ; Times: 1
+	Query: "genus:Mola" ; Times: 2
+	Query: "specificepithet:ditropis genus:Lamna" ; Times: 1
+	Query: "alces alces   " ; Times: 6
+	Query: "class:Reptilia county:&#34;King George&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Spilogale (New Mexico)" ; Times: 1
+	Query: "Bathyopsis" ; Times: 1
+	Query: "class:Mammalia county:&#34;Wheeler&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Cinclocerthia ruficauda" ; Times: 1
+	Query: "Coryphodon" ; Times: 2
+	Query: "Dilophodon" ; Times: 1
+	Query: "(unsm)" ; Times: 1
+	Query: "Solenodon paradoxus" ; Times: 1
+	Query: "genus:Neotoma stateprovince:&#34;Tennessee&#34;" ; Times: 7
+	Query: "Capra hircus" ; Times: 1
+	Query: "Protoceras" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "genus:bison" ; Times: 2
+	Query: "Diplodocus carnegii" ; Times: 1
+	Query: "trachemys scripta scripta stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "specificepithet:zygaena genus:Sphyrna" ; Times: 1
+	Query: "Zuniceratops" ; Times: 1
+	Query: "type:specimen (ciridops)" ; Times: 2
+	Query: "uintatherium" ; Times: 2
+	Query: "apatosaurus" ; Times: 1
+	Query: "Colodon" ; Times: 1
+	Query: "Palaeotherium" ; Times: 2
+	Query: "Diadiaphorus" ; Times: 1
+	Query: "Estes Scincidae type:specimen" ; Times: 1
+	Query: "USNM crotalus horridus maryland" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 1052 download events in this period)
+Total number of records downloaded: 1590
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 25
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 29
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 4
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-18 ; Times: 5
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-16 ; Times: 3
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-14 ; Times: 10
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-13 ; Times: 6
+	Date: 2016-06-03 ; Times: 6
+	Date: 2016-06-02 ; Times: 3
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-07 ; Times: 2
+	Date: 2016-06-08 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "Spilogale (New Mexico)" ; Times: 1
+	Query: "Eschrichtius ROBUSTUS" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "grus americana" ; Times: 3
+	Query: "deirochelys" ; Times: 2
+	Query: "Chelydra" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "class:Reptilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "order:strigiformes type:specimen institutioncode:USNM" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "family:Plethodontidae institutioncode:USNM" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "lagenorhynchus" ; Times: 3
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "genus:lepidochelys" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "canis latrans" ; Times: 3
+	Query: "Gopherus" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "Clethrionomys glareolus" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Castor (California)" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Apodemus flavicollis" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+
+
+End of report.
