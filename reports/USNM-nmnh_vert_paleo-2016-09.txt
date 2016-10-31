@@ -1,0 +1,100 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 724
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Portugal ; Times: 16
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-12 ; Times: 4
+	Date: 2016-09-11 ; Times: 2
+	Date: 2016-09-08 ; Times: 9
+	Date: 2016-09-09 ; Times: 8
+	Date: 2016-09-05 ; Times: 2
+	Date: 2016-09-07 ; Times: 3
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-02 ; Times: 1
+	Date: 2016-09-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Oreonetes" ; Times: 1
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 1
+	Query: "Aramus guarauna 1" ; Times: 1
+	Query: "Cygnus columbianus 1" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 2
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Anolis sagrei sagrei  1" ; Times: 1
+	Query: "Haliaeetus leucocephalus 1" ; Times: 1
+	Query: "Himantopus mexicanus 1" ; Times: 1
+	Query: "Lophodytes cucullatus 1" ; Times: 2
+	Query: "Opheodrys vernalis stateprovince:&#34;Virginia&#34;" ; Times: 2
+	Query: "Amazona leucocephala 1" ; Times: 2
+	Query: "Geopelia striata 1" ; Times: 2
+	Query: "order:Serpentes stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "specificepithet:obscurus genus:Carcharhinus" ; Times: 2
+	Query: "Oreonetes anceps" ; Times: 2
+	Query: "mosasauridae" ; Times: 1
+	Query: "Acridotheres tristis 1" ; Times: 2
+	Query: "Cygnus buccinator" ; Times: 1
+	Query: "class:aves country:&#34;Ascension Island&#34;" ; Times: 1
+	Query: "Eudocimus albus 1" ; Times: 1
+	Query: "Anolis sagrei 1" ; Times: 1
+	Query: "Branta sandvicensis 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 811 download events in this period)
+Total number of records downloaded: 2494
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 36
+	Country: Thailand ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-08 ; Times: 2
+	Date: 2016-09-09 ; Times: 2
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-05 ; Times: 6
+	Date: 2016-09-06 ; Times: 4
+	Date: 2016-09-07 ; Times: 2
+	Date: 2016-09-01 ; Times: 2
+	Date: 2016-09-02 ; Times: 13
+	Date: 2016-09-03 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "dermoptera" ; Times: 2
+	Query: "rana pipiens" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Nevada&#34;" ; Times: 6
+	Query: "Cygnus buccinator" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 12
+	Query: "Natalus" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "order:Lagomorpha stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;Idaho&#34;" ; Times: 4
+	Query: "Dermoptera" ; Times: 1
+	Query: "Bufo hemiophrys" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+
+
+End of report.
