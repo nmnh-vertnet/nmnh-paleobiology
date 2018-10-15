@@ -1,0 +1,165 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 107
+Number of records retrieved in searches: 1335
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 85
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 4
+	Date: 2018-01-18 ; Times: 3
+	Date: 2018-01-08 ; Times: 9
+	Date: 2018-01-09 ; Times: 17
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-15 ; Times: 7
+	Date: 2018-01-26 ; Times: 4
+	Date: 2018-01-20 ; Times: 6
+	Date: 2018-01-21 ; Times: 4
+	Date: 2018-01-17 ; Times: 23
+	Date: 2018-01-07 ; Times: 2
+	Date: 2018-01-16 ; Times: 7
+	Date: 2018-01-11 ; Times: 2
+	Date: 2018-01-30 ; Times: 6
+	Date: 2018-01-14 ; Times: 3
+	Date: 2018-01-22 ; Times: 6
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Melanosaurus" ; Times: 2
+	Query: "genus:Proxestops institutioncode:USNM" ; Times: 1
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "genus:Proxestops" ; Times: 2
+	Query: "genus:Xestops institutioncode:USNM" ; Times: 1
+	Query: "Tyto cavatica" ; Times: 1
+	Query: "dasyatis americana" ; Times: 1
+	Query: "genus:Arpadosaurus institutioncode:USNM" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "Pseudocrypturus" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; Crotalus horridus" ; Times: 1
+	Query: "fraudator" ; Times: 1
+	Query: "genus:Melanosaurus institutioncode:USNM" ; Times: 1
+	Query: "Chlorostilbon bracei" ; Times: 4
+	Query: "Jabiru mycteria" ; Times: 1
+	Query: "specificepithet:antaios genus:Upupa" ; Times: 3
+	Query: "Moho braccatus" ; Times: 2
+	Query: "genus:Triceratops" ; Times: 2
+	Query: "stateprovince:&#34;Virginia&#34; Cryptobranchus alleganiensis" ; Times: 1
+	Query: "genus:Paraglyptosaurus" ; Times: 4
+	Query: "genus:Glyptosaurus institutioncode:USNM" ; Times: 1
+	Query: "Dinictis" ; Times: 1
+	Query: "genus:Glyptosaurus" ; Times: 4
+	Query: "genus:Peltophryne specificepithet:lemur" ; Times: 1
+	Query: "genus:Apteribis" ; Times: 1
+	Query: "genus:Xestops" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "thylacosmilidae" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 3
+	Query: "(&#34;14C&#34;)" ; Times: 1
+	Query: "genus:Helodermoides institutioncode:USNM" ; Times: 1
+	Query: "Hell Creek Fm." ; Times: 1
+	Query: "West Virginia JEFFERSONIANUM" ; Times: 1
+	Query: "genus:Helodermoides" ; Times: 3
+	Query: "stateprovince:&#34;Virginia&#34; Opheodrys vernalis" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Equus asinus" ; Times: 1
+	Query: "holotype family:Teiidae hastypestatus:1 hasmedia:1" ; Times: 1
+	Query: "Paraceratherium transouralicum" ; Times: 2
+	Query: "genus:Paraglyptosaurus institutioncode:USNM" ; Times: 1
+	Query: "pinniped" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "Dasyatis say" ; Times: 1
+	Query: "archaeopteryx" ; Times: 2
+	Query: "genus:Arpadosaurus" ; Times: 2
+	Query: "Megalops atlanticus" ; Times: 2
+	Query: "Halichoerus grypus" ; Times: 5
+	Query: "moho braccatus" ; Times: 16
+	Query: "specificepithet:tigrinum genus:ambystoma stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "family:nimravidae hasmedia:1" ; Times: 2
+	Query: "Dasyatis americana" ; Times: 1
+	Query: "Carcharhinus leucas" ; Times: 2
+	Query: "dermoptera hastypestatus:1" ; Times: 5
+	Query: "Equus asinus asinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1398 download events in this period)
+Total number of records downloaded: 3147
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Italy ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 36
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-08 ; Times: 3
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 5
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-22 ; Times: 5
+	Date: 2018-01-25 ; Times: 10
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-23 ; Times: 5
+	Date: 2018-01-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "Raja texana" ; Times: 1
+	Query: "coereba flaveola" ; Times: 1
+	Query: "stateprovince:mississippi class:reptilia" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "genus:Canis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:balaenoptera" ; Times: 1
+	Query: "dermoptera hastypestatus:1" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Apteribis" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Peltophryne" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 2
+	Query: "Dermoptera" ; Times: 2
+	Query: "Acrocephalus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "amphibia madagascar" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "dermoptera" ; Times: 13
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
