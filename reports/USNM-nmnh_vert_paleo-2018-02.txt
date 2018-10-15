@@ -1,0 +1,207 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 217
+Number of records retrieved in searches: 6573
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 177
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 28
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-20 ; Times: 52
+	Date: 2018-02-16 ; Times: 3
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-25 ; Times: 5
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-27 ; Times: 45
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-04 ; Times: 29
+	Date: 2018-02-09 ; Times: 11
+	Date: 2018-02-08 ; Times: 16
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-01 ; Times: 3
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-07 ; Times: 4
+	Date: 2018-02-06 ; Times: 3
+	Date: 2018-02-05 ; Times: 27
+	Date: 2018-02-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:jeffersonianum genus:ambystoma stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "Cnemiornis institutioncode:USNM isfossil:1" ; Times: 1
+	Query: "genus:Palaeophis country:&#34;United States&#34;" ; Times: 2
+	Query: "scientificname:&#34;incertae sedis&#34;" ; Times: 19
+	Query: "latimeriidae" ; Times: 1
+	Query: "stateprovince:&#34;Kansas&#34; year &gt;= 1979 year &lt;= 1987 basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "iptrecordid:&#34;http://n2t.net/ark:/65665/3e5507095-abf1-4114-8bbb-3648a68ba20b&#34;" ; Times: 4
+	Query: "Holostei" ; Times: 1
+	Query: "genus:Pterosphenus stateprovince:&#34;Arkansas&#34;" ; Times: 11
+	Query: "scientificname:&#34;phenacolemur citatus&#34;" ; Times: 1
+	Query: "Raphus cucullatus" ; Times: 4
+	Query: "genus:Pterosphenus" ; Times: 3
+	Query: "genus:Palaeophis stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "scientificname:&#34;cedromus wilsoni&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;http://n2t.net/ark:/65665/3a4ae203e-72e4-45a1-adc2-51c454a4f524&#34;" ; Times: 4
+	Query: "goose institutioncode:USNM isfossil:1" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Synthetoceras" ; Times: 2
+	Query: "Pseudocrypturus" ; Times: 3
+	Query: "specificepithet:brasiliensis genus:Tadarida stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "specificepithet:auriculatus stateprovince:&#34;south carolina&#34; (&#34;berkeley&#34; OR &#34;bamberg&#34;)" ; Times: 1
+	Query: "scientificname:&#34;smilodectes sp.&#34;" ; Times: 2
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "iptrecordid:&#34;http://n2t.net/ark:/65665/32b13d30c-7105-4171-b44c-ecc7609ec65b&#34;" ; Times: 4
+	Query: "genus:Palaeophis county:&#34;Stafford&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Emydidae vntype:specimen hasmedia:1 isfossil:1" ; Times: 3
+	Query: "Ctenodon ctenodon" ; Times: 1
+	Query: "genus:Pterosphenus stateprovince:&#34;Alabama&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Anseriformes institutioncode:USNM isfossil:1" ; Times: 55
+	Query: "scientificname:&#34;dinictis squalidens&#34;" ; Times: 1
+	Query: "genus:Palaeophis stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:schucherti genus:Pterosphenus" ; Times: 3
+	Query: "quetzalcoatlus" ; Times: 1
+	Query: "Thambetochen (bill)" ; Times: 2
+	Query: "iptrecordid:&#34;http://n2t.net/ark:/65665/3698dd8cb-5197-4069-80ab-e38d788c6423&#34;" ; Times: 4
+	Query: "mylodon" ; Times: 1
+	Query: "genus:Palaeophis stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "genus:Pterosphenus stateprovince:&#34;Alabama&#34;" ; Times: 4
+	Query: "scientificname:&#34;presbyornis  sp&#34;" ; Times: 1
+	Query: "genus:Pterosphenus country:&#34;United States&#34;" ; Times: 3
+	Query: "genus:Palaeophis" ; Times: 5
+	Query: "Pampatherium humboldti " ; Times: 1
+	Query: "iptrecordid:&#34;http://n2t.net/ark:/65665/35d27a039-776f-4462-b7ea-0038423f2b56&#34;" ; Times: 4
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "Noronhomys vespuccii " ; Times: 1
+	Query: "iptrecordid:&#34;http://n2t.net/ark:/65665/3f8a04f02-4d75-4813-a15f-90445074d033&#34;" ; Times: 4
+	Query: "genus:Pterosphenus stateprovince:&#34;Arkansas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:novaeseelandiae genus:Hemiphaga" ; Times: 1
+	Query: "Equus asinus" ; Times: 2
+	Query: "Monachus tropicalis vntype:specimen" ; Times: 1
+	Query: "scientificname:&#34;notharctus sp.&#34;" ; Times: 12
+	Query: "placenta" ; Times: 1
+	Query: "pinniped" ; Times: 1
+	Query: "sus scrofa institutioncode:USNM" ; Times: 1
+	Query: "stegomastodon" ; Times: 1
+	Query: "genus:Palaeophis stateprovince:&#34;New Jersey&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Chelychelynechen quassus" ; Times: 2
+	Query: "class:Osteichthyes stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Quemisia gravis " ; Times: 1
+	Query: "genus:Pterosphenus stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "scientificname:&#34;thrinaxodon sp.&#34;" ; Times: 2
+	Query: "scientificname:&#34;protosiren (sp?)&#34;" ; Times: 1
+	Query: "Lampropeltis triangulum Virginia" ; Times: 1
+	Query: "scientificname:&#34;cantius sp.&#34;" ; Times: 1
+	Query: "Coelophysis" ; Times: 1
+	Query: "fossa" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 1
+	Query: "genus:Palaeophis county:&#34;Washington&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Equus asinus asinus" ; Times: 2
+	Query: "specificepithet:sp. genus:pipilo" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 1892 download events in this period)
+Total number of records downloaded: 1878
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 46
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-15 ; Times: 4
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-27 ; Times: 4
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-28 ; Times: 4
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-06 ; Times: 2
+	Date: 2018-02-08 ; Times: 5
+	Date: 2018-02-03 ; Times: 2
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-01 ; Times: 15
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-05 ; Times: 3
+	Date: 2018-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "genus:andrias" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus institutioncode:USNM" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "stegomastodon" ; Times: 2
+	Query: "notophthalmus viridescens" ; Times: 1
+	Query: "ambystoma jeffersonianum" ; Times: 1
+	Query: "geospiza" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Emydidae vntype:specimen hasmedia:1 isfossil:1" ; Times: 1
+	Query: "tremarctos" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "vntype:specimen specificepithet:cristatellus genus:Anolis institutioncode:USNM" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "family:Bovidae institutioncode:USNM" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "specificepithet:fuscata genus:Sterna" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Phyllodactylus baurii" ; Times: 2
+	Query: "Mus musculus" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "specificepithet:novaeseelandiae genus:Hemiphaga" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "genus:Procyon stateprovince:&#34;California&#34; year &lt;= 1920" ; Times: 1
+	Query: "coereba" ; Times: 1
+	Query: "genus:Procyon stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 2
+	Query: "county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34; isfossil:1" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "nothrotheriops" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34;" ; Times: 1
+
+
+End of report.
