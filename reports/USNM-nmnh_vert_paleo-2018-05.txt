@@ -1,0 +1,131 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 1044
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 45
+	Country: Germany ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-05 ; Times: 2
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-03 ; Times: 6
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-01 ; Times: 5
+	Date: 2018-05-11 ; Times: 5
+	Date: 2018-05-12 ; Times: 4
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-16 ; Times: 5
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 5
+	Date: 2018-05-24 ; Times: 7
+	Date: 2018-05-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "AL 3054" ; Times: 1
+	Query: "apertus" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:USNM" ; Times: 3
+	Query: "genus:Cryptobranchus stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Adapis" ; Times: 2
+	Query: "genus:Orcaella" ; Times: 1
+	Query: "Acrocephalus taiti" ; Times: 1
+	Query: "Psittirostra psittacea" ; Times: 2
+	Query: "specificepithet:pipiens genus:Rana institutioncode:USNM" ; Times: 3
+	Query: "specificepithet:lemur genus:Peltophryne institutioncode:USNM" ; Times: 3
+	Query: "dicrocerus" ; Times: 1
+	Query: "aepyornis" ; Times: 4
+	Query: "genus:Diplocaulus basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "specificepithet:albilabris genus:Leptodactylus institutioncode:USNM" ; Times: 3
+	Query: "class:aves recordedby:rodgers" ; Times: 1
+	Query: "genus:Dicrocerus class:Mammalia" ; Times: 1
+	Query: "mbr 5322" ; Times: 1
+	Query: "vntype:specimen genus:Diplocaulus basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "vntype:specimen order:Nectridea basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "echinorhinus" ; Times: 1
+	Query: "(Raphus cucullatus) institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:planirostris genus:Eleutherodactylus institutioncode:USNM" ; Times: 3
+	Query: "Orohippus" ; Times: 1
+	Query: "Alsophis Galapagos" ; Times: 2
+	Query: "vntype:specimen genus:Diplocaulus order:Nectridea basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "cyclura pinguis" ; Times: 4
+	Query: "Diplocaulus" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "puffinus year &gt;= 2010 year &lt;= 2018 institutioncode:USNM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1178 download events in this period)
+Total number of records downloaded: 885
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 10
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 7
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 2
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-02 ; Times: 3
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-18 ; Times: 4
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Psittirostra psittacea" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Texas&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "vntype:specimen family:Sciuridae (miocene) isfossil:1" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "genus:arctodus" ; Times: 1
+	Query: "country:&#34;United States&#34; (Lissamphibia)" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Tyrannus caudifasciatus" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Serpentes" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
