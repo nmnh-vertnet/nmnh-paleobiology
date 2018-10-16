@@ -1,0 +1,132 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 161
+Number of records retrieved in searches: 2058
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Brazil ; Times: 6
+	Country: United Kingdom ; Times: 100
+	Country: Japan ; Times: 25
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 7
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 12
+	Date: 2018-04-04 ; Times: 7
+	Date: 2018-04-07 ; Times: 33
+	Date: 2018-04-06 ; Times: 59
+	Date: 2018-04-18 ; Times: 17
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-17 ; Times: 3
+	Date: 2018-04-22 ; Times: 8
+	Date: 2018-04-21 ; Times: 2
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "porzana atra" ; Times: 1
+	Query: "specificepithet:concolor genus:Felis" ; Times: 1
+	Query: "Raphus cucullatus institutioncode:USNM" ; Times: 1
+	Query: "Ptilinopus insularis" ; Times: 2
+	Query: "Raphus cucullatus" ; Times: 117
+	Query: "Capra hircus USNM" ; Times: 1
+	Query: "genus:bootherium" ; Times: 1
+	Query: "castoroides" ; Times: 1
+	Query: "Saniwa ensidens" ; Times: 5
+	Query: "cyclura rileyi" ; Times: 2
+	Query: "class:Reptilia county:&#34;Delta&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus: Raphus" ; Times: 1
+	Query: "genus:rangifer institutioncode:USNM" ; Times: 1
+	Query: "family:ciconiidae hasmedia:1" ; Times: 1
+	Query: "acrocephalus taiti" ; Times: 1
+	Query: "crotalus horridus maryland" ; Times: 1
+	Query: "specificepithet:rubriventris genus:Pseudemys stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Guttatus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "enaliarctos" ; Times: 2
+	Query: "genus:Raphus" ; Times: 2
+	Query: "monachus tropicalis" ; Times: 1
+	Query: "recordedby:branner" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "stegomastodon" ; Times: 1
+	Query: "heterodon maryland" ; Times: 1
+	Query: "genus:cervalces" ; Times: 1
+	Query: "guttatus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:aepyornis" ; Times: 2
+	Query: "cyclura pinguis" ; Times: 1
+	Query: "bootherium" ; Times: 1
+	Query: "Sus scrofa USNM" ; Times: 2
+	Query: "Anolis occultus" ; Times: 1
+	Query: "symbos" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1359 download events in this period)
+Total number of records downloaded: 1106
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 20
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-03 ; Times: 3
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 4
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-23 ; Times: 4
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Raphus cucullatus" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 1
+	Query: "Gastrophryne carolinensis" ; Times: 2
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "specificepithet:opacum genus:ambystoma stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "stegomastodon" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "specificepithet:rubriventris genus:Pseudemys stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 2
+
+
+End of report.
