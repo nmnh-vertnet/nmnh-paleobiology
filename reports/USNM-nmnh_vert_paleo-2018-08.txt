@@ -1,0 +1,155 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 1965
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 86
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-02 ; Times: 4
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-26 ; Times: 2
+	Date: 2018-08-19 ; Times: 2
+	Date: 2018-08-08 ; Times: 1
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-31 ; Times: 3
+	Date: 2018-08-25 ; Times: 3
+	Date: 2018-08-24 ; Times: 7
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-22 ; Times: 34
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-20 ; Times: 24
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-10 ; Times: 2
+	Date: 2018-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "adocus bossi" ; Times: 2
+	Query: "adocus" ; Times: 1
+	Query: "Raphus" ; Times: 4
+	Query: "DOL" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "genus:Protosciurus " ; Times: 4
+	Query: "latimeria" ; Times: 2
+	Query: "genus:Sciuravus specificepithet:sp." ; Times: 4
+	Query: "Pezophaps" ; Times: 1
+	Query: "MBR 1774" ; Times: 1
+	Query: "hair samples" ; Times: 2
+	Query: "nesospingus" ; Times: 1
+	Query: "genus:solenodon" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "latimeria vntype:specimen" ; Times: 2
+	Query: "adocus isfossil:1" ; Times: 1
+	Query: "stepheni institutioncode:USNM" ; Times: 1
+	Query: "genus:martes county:&#34;humboldt&#34;" ; Times: 1
+	Query: "genus:Reithroparamys specificepithet:sp." ; Times: 4
+	Query: "NESOSPINGUS" ; Times: 1
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 3
+	Query: "genus:Plagiomene specificepithet:sp." ; Times: 4
+	Query: "Acm" ; Times: 10
+	Query: "morejohn" ; Times: 1
+	Query: "V1128" ; Times: 1
+	Query: "genus:Reithroparamys  specificepithet:delicatissimus " ; Times: 3
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 4
+	Query: "holotype family:Teiidae hastypestatus:1 hasmedia:1" ; Times: 2
+	Query: "Agassiz 1872" ; Times: 1
+	Query: "Rhodacanthis flaviceps" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:sp." ; Times: 3
+	Query: "genus:Palaechthon specificepithet:problematicus" ; Times: 3
+	Query: "Baena arenosa" ; Times: 2
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "puffinus boydi" ; Times: 2
+	Query: "genus:Diplodocus specificepithet:sp." ; Times: 3
+	Query: "genus:Titanotheriomys specificepithet:veterior" ; Times: 3
+	Query: "class:reptilia county:&#34;duplin&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 4
+	Query: "genus:Cryptobranchus year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Mammuthus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "county:&#34;madison&#34; stateprovince:&#34;iowa&#34;" ; Times: 2
+	Query: "adocus bossi isfossil:1" ; Times: 1
+	Query: "genus:Protosiren specificepithet:(sp?)" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1416 download events in this period)
+Total number of records downloaded: 1308
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 13
+	Country: Malaysia ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-26 ; Times: 2
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-09 ; Times: 9
+	Date: 2018-08-08 ; Times: 2
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 3
+	Date: 2018-08-07 ; Times: 3
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-14 ; Times: 7
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "felis catus" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "recordedby:Baron" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "Loxops virens" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "class:reptilia county:&#34;wayne&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "genus:typhlops institutioncode:USNM" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "Rhodacanthis flaviceps" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "ursus arctos" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "class:reptilia county:&#34;duplin&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "catesbeiana" ; Times: 1
+
+
+End of report.
