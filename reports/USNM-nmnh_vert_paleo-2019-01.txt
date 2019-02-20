@@ -1,0 +1,151 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 150
+Number of records retrieved in searches: 1351
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 129
+	Country: Belgium ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Italy ; Times: 13
+	Country: Czechia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 27
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-14 ; Times: 11
+	Date: 2019-01-15 ; Times: 13
+	Date: 2019-01-16 ; Times: 4
+	Date: 2019-01-17 ; Times: 6
+	Date: 2019-01-10 ; Times: 6
+	Date: 2019-01-11 ; Times: 9
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-29 ; Times: 10
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-07 ; Times: 3
+	Date: 2019-01-05 ; Times: 3
+	Date: 2019-01-21 ; Times: 5
+	Date: 2019-01-20 ; Times: 12
+	Date: 2019-01-09 ; Times: 12
+	Date: 2019-01-22 ; Times: 9
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-08 ; Times: 4
+	Date: 2019-01-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:bauri genus:Coelophysis" ; Times: 1
+	Query: "family:hypertragulidae hasmedia:1" ; Times: 1
+	Query: "isurus stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "ornithomimidae" ; Times: 2
+	Query: "Reptilia south carolina orangeburg" ; Times: 1
+	Query: "vntype:specimen specificepithet:floridana class:Aves year &gt;= 1800 year &lt;= 1931" ; Times: 1
+	Query: "specificepithet:obscurus genus:Phaeornis" ; Times: 1
+	Query: "rhineura" ; Times: 1
+	Query: "genus:Coelophysis" ; Times: 1
+	Query: "3007067" ; Times: 1
+	Query: "family:tapiridae hasmedia:1" ; Times: 3
+	Query: "Tyto cavatica" ; Times: 1
+	Query: "diplocaulus" ; Times: 1
+	Query: "Reptilia Arkansas hempstead" ; Times: 2
+	Query: "family:Phocidae order:Carnivora hasmedia:1 isfossil:1" ; Times: 1
+	Query: "specificepithet:longipes genus:Compsognathus" ; Times: 9
+	Query: "Chlorostilbon bracei" ; Times: 2
+	Query: "batoidea" ; Times: 7
+	Query: "Cnemiornis" ; Times: 1
+	Query: "Pseudemys rubriventris" ; Times: 1
+	Query: "(Diploglossus) institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:onca genus:panthera country:&#34;united&#34;" ; Times: 1
+	Query: "virginia ambystoma tigrinum" ; Times: 1
+	Query: "vntype:specimen order:Saurischia hasmedia:1" ; Times: 1
+	Query: "genus:Tyrannosaurus hasmedia:1" ; Times: 3
+	Query: "specificepithet:lithographica genus:Archaeopteryx hasmedia:1 isfossil:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 53
+	Query: "(dermoptera)" ; Times: 2
+	Query: "Cryptobranchus west virginia" ; Times: 2
+	Query: "Siphonorhis daiquiri" ; Times: 1
+	Query: "family:Ursidae order:Carnivora hasmedia:1 isfossil:1" ; Times: 1
+	Query: "institutioncode:FMNH OR USNM family:mustelidae hasmedia:1" ; Times: 1
+	Query: "scientificname:Panthera panthera onca hasmedia:1 " ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "specificepithet:lithographica genus:Archaeopteryx isfossil:1" ; Times: 1
+	Query: "Smilodon hasmedia:1" ; Times: 10
+	Query: "specificepithet:occultus genus:anolis institutioncode:USNM" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 4
+	Query: "Smilodon hasmedia:1 isfossil:1" ; Times: 1
+	Query: "genus:Cnemiornis" ; Times: 1
+	Query: "dryptosaurus" ; Times: 1
+	Query: "dermoptera" ; Times: 19
+	Query: "anoxypristis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 103 (out of 962 download events in this period)
+Total number of records downloaded: 6328
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 92
+	Country: Iran ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 23
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-01 ; Times: 2
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-28 ; Times: 6
+	Date: 2019-01-26 ; Times: 2
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-16 ; Times: 3
+	Date: 2019-01-22 ; Times: 3
+	Date: 2019-01-25 ; Times: 6
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-27 ; Times: 10
+	Date: 2019-01-31 ; Times: 21
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-30 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:caerulea caerulea genus:Passerina year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "dermoptera" ; Times: 35
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "class:Mammalia county:&#34;polk&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "vntype:specimen family:Carettochelyidae" ; Times: 1
+	Query: "class:Mammalia county:&#34;san jacinto&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "(dermoptera)" ; Times: 14
+	Query: "specificepithet:pennsylvanicus genus:microtus institutioncode:USNM" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "Panthera onca" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "order:Primates country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "Dermoptera" ; Times: 22
+	Query: "Manidae" ; Times: 1
+	Query: "genus:Alces isfossil:1" ; Times: 1
+
+
+End of report.
