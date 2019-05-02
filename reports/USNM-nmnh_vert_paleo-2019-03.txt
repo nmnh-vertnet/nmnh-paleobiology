@@ -1,0 +1,141 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 523
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 49
+	Country: Germany ; Times: 5
+	Country: United Kingdom ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 2
+	Date: 2019-03-06 ; Times: 10
+	Date: 2019-03-18 ; Times: 3
+	Date: 2019-03-01 ; Times: 5
+	Date: 2019-03-02 ; Times: 2
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 6
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-21 ; Times: 8
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-05 ; Times: 2
+	Date: 2019-03-04 ; Times: 3
+	Date: 2019-03-14 ; Times: 6
+	Date: 2019-03-15 ; Times: 8
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-10 ; Times: 2
+	Date: 2019-03-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "brachiosaurus" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:bermuda" ; Times: 3
+	Query: "Alsophis antillensis" ; Times: 1
+	Query: "genus:Coenocorypha order:Charadriiformes class:Aves" ; Times: 1
+	Query: "diploglossus pleii" ; Times: 1
+	Query: "cavatica puerto rico" ; Times: 1
+	Query: "poebrotherium" ; Times: 3
+	Query: "Typhlops monastus" ; Times: 1
+	Query: "Acrocephalus taiti" ; Times: 1
+	Query: "Reptilia Mississippi kemper" ; Times: 1
+	Query: "diadectes" ; Times: 1
+	Query: "Reptilia Mississippi smith" ; Times: 1
+	Query: "MBR 3568" ; Times: 2
+	Query: "eusthenopteron" ; Times: 2
+	Query: "Cnemiornis" ; Times: 4
+	Query: "Thamnophis brachystoma" ; Times: 1
+	Query: "recordedby:Peale" ; Times: 1
+	Query: "Crenidens" ; Times: 1
+	Query: "quetzalcoatlus" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "Reptilia Alabama pickens" ; Times: 1
+	Query: "Lamna ditropis" ; Times: 6
+	Query: "Panthera onca" ; Times: 8
+	Query: "jabiru mycteria" ; Times: 2
+	Query: "&#34;Margarops fuscus&#34;" ; Times: 1
+	Query: "eunotosaurus" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Florida" ; Times: 4
+	Query: "Pseudemys AL" ; Times: 1
+	Query: "makaira indica" ; Times: 1
+	Query: "ischigualastia" ; Times: 1
+	Query: "genus:Mobula" ; Times: 1
+	Query: "order:Dinornithiformes institutioncode:USNM" ; Times: 1
+	Query: "Geospiza magnirostris" ; Times: 1
+	Query: "hydrodamalis gigas" ; Times: 1
+	Query: "Latimeria chalumnae" ; Times: 1
+	Query: "recordedby:Hoare" ; Times: 1
+	Query: "genus:poebrotherium hasmedia:1" ; Times: 1
+	Query: "Otariinae" ; Times: 2
+	Query: "dilophosaurus" ; Times: 1
+	Query: "tyto puerto rico" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:neotoma stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "&#34;Chlorostilbon bracei&#34;" ; Times: 1
+	Query: "country:&#34;brazil&#34; recordedby:branner" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1281 download events in this period)
+Total number of records downloaded: 1249
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-08 ; Times: 3
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-15 ; Times: 2
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leiocephalus carinatus" ; Times: 1
+	Query: "Otariinae" ; Times: 1
+	Query: "Psittirostra psittacea" ; Times: 1
+	Query: "class:Mammalia county:&#34;Wilbarger&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "specificepithet:MUSCULUS genus:BalaenopterA institutioncode:USNM" ; Times: 1
+	Query: "county:&#34;emery&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Guilday" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 2
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "geranoaetus" ; Times: 2
+	Query: "Geospiza magnirostris" ; Times: 1
+	Query: "hydrodamalis gigas" ; Times: 1
+	Query: "specificepithet:Alces alces stateprovince:&#34;Alaska&#34;" ; Times: 1
+
+
+End of report.
