@@ -1,0 +1,130 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 56
+Number of records retrieved in searches: 1566
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 30
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: New Zealand ; Times: 20
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-20 ; Times: 4
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-22 ; Times: 4
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 2
+	Date: 2019-05-09 ; Times: 4
+	Date: 2019-05-06 ; Times: 25
+	Date: 2019-05-05 ; Times: 2
+	Date: 2019-05-03 ; Times: 2
+	Date: 2019-05-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Carcharhinus signatus" ; Times: 1
+	Query: "Raja texana" ; Times: 1
+	Query: "Triaenodon obesus" ; Times: 1
+	Query: "phaethon aethereus" ; Times: 1
+	Query: "Carcharhinus perezii" ; Times: 1
+	Query: "Cyanoramphus" ; Times: 1
+	Query: "Oahu vntype:specimen genus:Chasiempis" ; Times: 2
+	Query: "Raphus cucullatus" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Lamna ditropis" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Sphyrna media" ; Times: 1
+	Query: "Aepyornis maximus" ; Times: 1
+	Query: "scytalopus sp." ; Times: 1
+	Query: "raphus cucullatus" ; Times: 1
+	Query: "Carcharhinus macloti" ; Times: 1
+	Query: "Notorynchus cepedianus" ; Times: 1
+	Query: "order:Ornithischia institutioncode:USNM" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "Squatina david" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "(tylosaurus) institutioncode:USNM" ; Times: 1
+	Query: "atlantisia podarces" ; Times: 3
+	Query: "stateprovince:&#34;Washington&#34; recordedby:Hungate" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "specificepithet:obscurus genus:hemignathus" ; Times: 5
+	Query: "Alopias superciliosus" ; Times: 1
+	Query: "genus:Mobula" ; Times: 1
+	Query: "order:Carnivora county:&#34;nassau&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "atlantisia elpenor" ; Times: 1
+	Query: "Lamna nasus" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 1
+	Query: "genus:Manta" ; Times: 3
+	Query: "family:Balaenidae year &gt;= 1900 year &lt;= 1940" ; Times: 1
+	Query: "(platecarpus) institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "Dunkleosteus" ; Times: 2
+	Query: "vntype:specimen specificepithet:trifasciatus genus:mimus" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "order:Saurischia institutioncode:USNM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 940 download events in this period)
+Total number of records downloaded: 323
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ghana ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: Poland ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 2
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-10 ; Times: 2
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-03 ; Times: 2
+	Date: 2019-05-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:minor genus:coccyzus" ; Times: 1
+	Query: "vntype:specimen genus:grus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "Cyanoramphus" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "vntype:specimen genus:Ectopistes" ; Times: 1
+	Query: "family:Geomyidae institutioncode:USNM" ; Times: 1
+	Query: "Oahu vntype:specimen genus:Chasiempis" ; Times: 1
+	Query: "vntype:specimen specificepithet:trifasciatus genus:mimus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+
+
+End of report.
