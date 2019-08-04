@@ -1,0 +1,211 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 153
+Number of records retrieved in searches: 1927
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: United States ; Times: 111
+	Country: Madagascar ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Nepal ; Times: 3
+	Country: United Kingdom ; Times: 21
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 20
+	Date: 2019-07-18 ; Times: 10
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-12 ; Times: 12
+	Date: 2019-07-13 ; Times: 2
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 3
+	Date: 2019-07-16 ; Times: 13
+	Date: 2019-07-17 ; Times: 2
+	Date: 2019-07-15 ; Times: 5
+	Date: 2019-07-02 ; Times: 4
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-23 ; Times: 4
+	Date: 2019-07-08 ; Times: 39
+	Date: 2019-07-20 ; Times: 8
+	Date: 2019-07-27 ; Times: 5
+	Date: 2019-07-24 ; Times: 3
+	Date: 2019-07-01 ; Times: 3
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-05 ; Times: 4
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-07 ; Times: 4
+	Date: 2019-07-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "puffinus newelli" ; Times: 1
+	Query: "pelagodroma cape verde" ; Times: 1
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 1
+	Query: "genus:Pronothodectes specificepithet:matthewi" ; Times: 1
+	Query: "genus:Rhizomys specificepithet:sp" ; Times: 1
+	Query: "genus:Cantius specificepithet:mckennai" ; Times: 1
+	Query: "genus:Titanotheriomys specificepithet:veterior" ; Times: 1
+	Query: "genus:Adocus" ; Times: 1
+	Query: "genus:Allognathosuchus" ; Times: 1
+	Query: "genus:Compsemys specificepithet:victa" ; Times: 1
+	Query: "genus:Sphaerotholus" ; Times: 1
+	Query: "usnm pusa sibirica" ; Times: 1
+	Query: "family:Aepyornithidae institutioncode:USNM" ; Times: 3
+	Query: "vntype:specimen genus:vulpes hasmedia:1" ; Times: 1
+	Query: "class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 2
+	Query: "Kellog" ; Times: 1
+	Query: "genus:Protosciurus " ; Times: 2
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "genus:Rhamphorhynchus" ; Times: 1
+	Query: "genus:Plagiomene specificepithet:sp." ; Times: 1
+	Query: "order:perissodactyla class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "pterodroma phaeopygia galapagos" ; Times: 1
+	Query: "genus:smilodon class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:Pterygoboa" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 4
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 1
+	Query: "class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:Machairodus" ; Times: 1
+	Query: "genus:Chlororhysis specificepithet:knightensis" ; Times: 1
+	Query: "specificepithet:psittacea genus:Psittirostra" ; Times: 2
+	Query: "genus:Gilmoremys" ; Times: 1
+	Query: "genus:Cantius specificepithet:sp." ; Times: 1
+	Query: "genus:Brachychampsa specificepithet:montana" ; Times: 1
+	Query: "class:amphibia county:&#34;San Juan&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Dicynodon" ; Times: 1
+	Query: "genus:Cantius specificepithet:abditus" ; Times: 1
+	Query: "genus:Cantius specificepithet:ralstoni" ; Times: 1
+	Query: "genus:Gomphotherium" ; Times: 1
+	Query: "genus:Tetonius specificepithet:homunculus" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:Absarokius specificepithet:noctivagus" ; Times: 1
+	Query: "pelagodroma marina year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "genus:Parocnus specificepithet:serus" ; Times: 1
+	Query: "genus:canis class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Coenocorypha aucklandica" ; Times: 1
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "Pteraspis" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 15
+	Query: "genus:Plastomenus" ; Times: 1
+	Query: "genus:Eilenodon" ; Times: 1
+	Query: "genus:Protosiren specificepithet:(sp?)" ; Times: 1
+	Query: "porzana atra" ; Times: 1
+	Query: "genus:Reithroparamys  specificepithet:delicatissimus " ; Times: 1
+	Query: "genus:mammuthus class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 2
+	Query: "genus:mammut class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:Trionyx" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:americana" ; Times: 1
+	Query: "Chaetoptila angustipluma" ; Times: 1
+	Query: "genus:Crocodylus  specificepithet:porosus" ; Times: 1
+	Query: "genus:Equus specificepithet:complicatus" ; Times: 1
+	Query: "genus:Neuropteris" ; Times: 1
+	Query: "class:reptilia county:&#34;hot springs&#34; stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Cyanoramphus" ; Times: 1
+	Query: "genus:Diplodocus specificepithet:sp." ; Times: 1
+	Query: "nunnally" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;virginia&#34;" ; Times: 2
+	Query: "genus:Necrolemur specificepithet:antiquus" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 4
+	Query: "country:&#34;Peru&#34; recordedby:H bassler" ; Times: 1
+	Query: "Vini stepheni" ; Times: 1
+	Query: "Osteostraci" ; Times: 2
+	Query: "pterodroma magentae" ; Times: 9
+	Query: "genus:Bootherium specificepithet:bombifrons" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 2
+	Query: "Nesofregetta fuliginosa" ; Times: 2
+	Query: "vntype:specimen genus:leuciscus stateprovince:&#34;washington&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:Reithroparamys specificepithet:sp." ; Times: 1
+	Query: "genus:Absarokius specificepithet:metoecus" ; Times: 1
+	Query: "genus:Protosiren specificepithet:sp." ; Times: 1
+	Query: "genus:Subhyracodon" ; Times: 1
+	Query: "genus:Equus specificepithet:sp." ; Times: 1
+	Query: "genus:Adapis specificepithet:parisiensis" ; Times: 1
+	Query: "genus:Anemorhysis specificepithet:pearcei" ; Times: 1
+	Query: "genus:Cantius specificepithet:trigonodus" ; Times: 1
+	Query: "Lagenorhynchus obscurus" ; Times: 2
+	Query: "genus:Morus " ; Times: 1
+	Query: "genus:Tyrannosaurus isfossil:1" ; Times: 2
+	Query: "(mammuthus hair)" ; Times: 10
+	Query: "Haliaeetus leucocephalus" ; Times: 3
+	Query: "pterodroma phaeopygia galapagos usnm" ; Times: 1
+	Query: "pelagodroma year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "genus:Anemorhysis specificepithet:wortmani" ; Times: 1
+	Query: "genus:Arctotherium" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 985 download events in this period)
+Total number of records downloaded: 1520
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Peru ; Times: 2
+	Country: Bhutan ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 1
+	Country: United States ; Times: 20
+	Country: Uganda ; Times: 1
+	Country: Guadeloupe ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-08 ; Times: 2
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-25 ; Times: 10
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-05 ; Times: 3
+	Date: 2019-07-29 ; Times: 3
+	Date: 2019-07-11 ; Times: 3
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1971 year &lt;= 1975" ; Times: 1
+	Query: "specificepithet:psittacea genus:Psittirostra" ; Times: 1
+	Query: "Corvus nasicus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 4
+	Query: "Branta canadensis" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "usnm pusa sibirica" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1941 year &lt;= 1950" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "(&#34;Patagioenas leucocephala&#34; OR &#34;Columba leucocephala&#34;)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1976 year &lt;= 1980" ; Times: 2
+	Query: "Lagenorhynchus obscurus" ; Times: 3
+	Query: "Macrochelys" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "Corvus palmarum" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "vntype:specimen order:anura institutioncode:USNM hastypestatus:1" ; Times: 2
+
+
+End of report.
