@@ -1,0 +1,222 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 219
+Number of records retrieved in searches: 9974
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 145
+	Country: Peru ; Times: 9
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 28
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 26
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 13
+	Date: 2019-08-06 ; Times: 4
+	Date: 2019-08-08 ; Times: 32
+	Date: 2019-08-29 ; Times: 10
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-02 ; Times: 4
+	Date: 2019-08-04 ; Times: 5
+	Date: 2019-08-05 ; Times: 18
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-07 ; Times: 2
+	Date: 2019-08-26 ; Times: 8
+	Date: 2019-08-09 ; Times: 8
+	Date: 2019-08-24 ; Times: 2
+	Date: 2019-08-25 ; Times: 3
+	Date: 2019-08-22 ; Times: 13
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-21 ; Times: 2
+	Date: 2019-08-16 ; Times: 16
+	Date: 2019-08-15 ; Times: 18
+	Date: 2019-08-14 ; Times: 15
+	Date: 2019-08-13 ; Times: 5
+	Date: 2019-08-12 ; Times: 16
+	Date: 2019-08-31 ; Times: 3
+	Date: 2019-08-30 ; Times: 8
+	Date: 2019-08-19 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:browni class:mammalia (browni)" ; Times: 2
+	Query: "Aramides cajanea" ; Times: 1
+	Query: "Hipparion primigenium" ; Times: 1
+	Query: "Raphus cucullatus" ; Times: 7
+	Query: "(seymouria)" ; Times: 1
+	Query: "genus:stenella order:cetacea class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:xanthomus genus:Agelaius" ; Times: 3
+	Query: "genus:Titanotheriomys specificepithet:veterior" ; Times: 1
+	Query: "genus:Palenochtha specificepithet:minor" ; Times: 1
+	Query: "seymouria isfossil:1" ; Times: 1
+	Query: "genus:Teratornis stateprovince:&#34;California&#34; country:&#34;united states&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "pterodroma phaeopygia year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "DASYATIS centroura" ; Times: 1
+	Query: "genus:Protosciurus " ; Times: 1
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 1
+	Query: "Pseudonestor xanthophrys" ; Times: 3
+	Query: "genus:Plagiomene specificepithet:sp." ; Times: 1
+	Query: "specificepithet:phaeopygia genus:Pterodroma" ; Times: 12
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 17
+	Query: "specificepithet:meridionalis genus:Nestor" ; Times: 2
+	Query: "Mimus trifasciatus" ; Times: 1
+	Query: "pterodroma phaeopygia galapagos year &gt;= 1980 year &lt;= 2019" ; Times: 3
+	Query: "Chlorostilbon bracei vntype:specimen" ; Times: 1
+	Query: "Rhodacanthis palmeri" ; Times: 6
+	Query: "genus:Diplodocus specificepithet:sp." ; Times: 1
+	Query: "Foraminifera" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Maryland&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Pterodroma chatham" ; Times: 1
+	Query: "sauropsida" ; Times: 1
+	Query: "specificepithet:psittacea genus:Psittirostra" ; Times: 2
+	Query: "class:Reptilia institutioncode:USNM year&gt;=2015 year&lt;=2019" ; Times: 1
+	Query: "Margarops fuscatus" ; Times: 1
+	Query: "Zenaida galapagoensis" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Tennessee&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Buteo solitarius" ; Times: 1
+	Query: "Atlantisia podarces" ; Times: 1
+	Query: "specificepithet:wyvilliana genus:Anas" ; Times: 3
+	Query: "Sphyrna media" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Virginia&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "pelagodroma marina cape verde" ; Times: 1
+	Query: "Carcharhinus signatus" ; Times: 1
+	Query: "Amazona vittata" ; Times: 2
+	Query: "Ovis dalli" ; Times: 1
+	Query: "Oceanodroma castro" ; Times: 2
+	Query: "Pterodroma inexpectata" ; Times: 1
+	Query: "genus:Reithroparamys  specificepithet:delicatissimus " ; Times: 1
+	Query: "Geospiza magnirostris" ; Times: 1
+	Query: "Itararé" ; Times: 1
+	Query: "amazona vittata" ; Times: 2
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 8
+	Query: "genus:Protosiren specificepithet:(sp?)" ; Times: 1
+	Query: "Aepyornis maximus" ; Times: 1
+	Query: "Zakrzewski" ; Times: 1
+	Query: "Makaira nigricans" ; Times: 2
+	Query: "order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "puffinus pacificus year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "order:cetacea class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 2
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "hydrobatidae cape verde" ; Times: 1
+	Query: "genus:Hyopsodus specificepithet:sp." ; Times: 1
+	Query: "specificepithet:browni class:amphibia (browni)" ; Times: 1
+	Query: "Oreomystis bairdi" ; Times: 5
+	Query: "Mesoplodon europaeus" ; Times: 1
+	Query: "Atlantisia elpenor" ; Times: 4
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:Crocodylus  specificepithet:porosus" ; Times: 1
+	Query: "Apatosaurus" ; Times: 1
+	Query: "seymouria" ; Times: 4
+	Query: "Alopias superciliosus" ; Times: 1
+	Query: "Hemignathus obscurus" ; Times: 9
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 2
+	Query: "Bootherium" ; Times: 3
+	Query: "Balaenoptera borealis country:&#34;United States&#34;" ; Times: 2
+	Query: "genus:Coenocorypha" ; Times: 1
+	Query: "teratornis" ; Times: 1
+	Query: "specificepithet:onca genus:panthera stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:californianus genus:Gymnogyps" ; Times: 2
+	Query: "genus:Reithroparamys specificepithet:sp." ; Times: 1
+	Query: "specificepithet:onca genus:panthera county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "order:cetacea class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:USNM" ; Times: 5
+	Query: "Bulweria bulwerii" ; Times: 1
+	Query: "Jabiru mycteria" ; Times: 1
+	Query: "pterodroma magentae" ; Times: 9
+	Query: "genus:Bootherium specificepithet:bombifrons" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;West Virginia&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "specificepithet:baurii genus:Phyllodactylus institutioncode:USNM" ; Times: 6
+	Query: "Panthera onca" ; Times: 10
+	Query: "Homo sapiens" ; Times: 1
+	Query: "genus:Protosiren specificepithet:sp." ; Times: 1
+	Query: "Mareca americana" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+	Query: "specificepithet:onca genus:panthera stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "(mammuthus hair)" ; Times: 1
+	Query: "specificepithet:magentae genus:Pterodroma" ; Times: 2
+	Query: "Pezophaps solitaria" ; Times: 5
+	Query: "ambystoma tigrinum Virginia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1034 download events in this period)
+Total number of records downloaded: 388
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 16
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-18 ; Times: 1
+	Date: 2019-08-10 ; Times: 2
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 6
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-08 ; Times: 4
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-30 ; Times: 3
+	Date: 2019-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Erethizon stateprovince:&#34;Maryland&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Balaenoptera acutorostrata" ; Times: 1
+	Query: "Arequipa" ; Times: 2
+	Query: "anolis evermanni" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "genus:Cryptobranchus" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Tennessee&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "anolis occultus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "seymouria isfossil:1" ; Times: 1
+	Query: "Balaenoptera borealis" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;West Virginia&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Virginia&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "genus:Teratornis stateprovince:&#34;California&#34; country:&#34;united states&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Agelaius xanthomus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "Zakrzewski" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "seymouria" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "Boyacá" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "merychyus" ; Times: 1
+
+
+End of report.
