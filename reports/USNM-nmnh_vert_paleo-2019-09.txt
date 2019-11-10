@@ -1,0 +1,157 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 98
+Number of records retrieved in searches: 999
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 89
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Guadeloupe ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-20 ; Times: 4
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-17 ; Times: 10
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 4
+	Date: 2019-09-12 ; Times: 7
+	Date: 2019-09-26 ; Times: 22
+	Date: 2019-09-28 ; Times: 2
+	Date: 2019-09-04 ; Times: 2
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-06 ; Times: 10
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-02 ; Times: 5
+	Date: 2019-09-03 ; Times: 8
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-22 ; Times: 2
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-24 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Presbyornis isoni" ; Times: 1
+	Query: "captorhinus" ; Times: 1
+	Query: "genus:Dasypus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Boavus country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Big Horn&#34; stateprovince:&#34;Montana&#34;" ; Times: 3
+	Query: "nesofregetta fuliginosa" ; Times: 1
+	Query: "specificepithet:leucocephala genus:Columba family:Columbidae institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:USNM" ; Times: 3
+	Query: "genus:Epicrates stateprovince:&#34;Puerto Rico&#34; AND (NOT molei)" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "megalonyx jeffersonii" ; Times: 1
+	Query: "Chlorostilbon bracei" ; Times: 4
+	Query: "genus:balaenoptera order:cetacea class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:Palaeophis country:&#34;United States&#34;" ; Times: 1
+	Query: "order:CARNIVORA class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 3
+	Query: "specificepithet:baurii genus:Phyllodactylus institutioncode:USNM" ; Times: 5
+	Query: "Mergus miscellus" ; Times: 1
+	Query: "hesperosorex" ; Times: 1
+	Query: "Atlantisia podarces usnm" ; Times: 1
+	Query: "diplodocus" ; Times: 1
+	Query: "specificepithet:planirostris stateprovince:&#34;Carolina&#34;" ; Times: 1
+	Query: "genus:Pinguinus year &gt;= 1800" ; Times: 1
+	Query: "class:Reptilia county:&#34;Bowman&#34; stateprovince:&#34;North Dakota&#34; AND (NOT PBDB NOT UCMP NOT YPM )" ; Times: 1
+	Query: "americanus clarke" ; Times: 2
+	Query: "Homo sapiens" ; Times: 1
+	Query: "order:Chiroptera county:&#34;White Pine&#34;" ; Times: 1
+	Query: "Chaetoptila angustipluma" ; Times: 1
+	Query: "stateprovince:&#34;Virginia&#34; Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Presbychen abavus" ; Times: 3
+	Query: "genus:Pterosphenus country:&#34;United States&#34;" ; Times: 1
+	Query: "otus nudipes" ; Times: 1
+	Query: "hydrodamalis" ; Times: 1
+	Query: "class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 3
+	Query: "Panthera onca" ; Times: 10
+	Query: "(Arctodus simus) institutioncode:USNM" ; Times: 1
+	Query: "county:&#34;Madison&#34; stateprovince:&#34;Iowa&#34; isfossil:1" ; Times: 1
+	Query: "Bootherium" ; Times: 1
+	Query: "raphus" ; Times: 2
+	Query: "family:dugongidae stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "order:cetacea class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:Megalodon stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "archaeopteryx" ; Times: 1
+	Query: "atlantisia elpenor" ; Times: 1
+	Query: "Pinguinus" ; Times: 3
+	Query: "cryptobranchus" ; Times: 1
+	Query: "genus:Triceratops isfossil:1" ; Times: 2
+	Query: "county:&#34;Madison&#34; stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Big Horn&#34; stateprovince:&#34;Wyoming&#34; AND (NOT PBDB NOT UCMP NOT YPM )" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 5
+	Query: "specificepithet:meridionalis genus:Nestor" ; Times: 1
+	Query: "class:Reptilia county:&#34;Bowman&#34; stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "Prionodon institutioncode:USNM" ; Times: 7
+	Query: "bootherium" ; Times: 1
+	Query: "family:CASTORIDAE order:RODENTIA class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Proterochampsa" ; Times: 1
+	Query: "genus:mesoplodon order:cetacea class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1073 download events in this period)
+Total number of records downloaded: 703
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Brunei ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 13
+	Country: Guadeloupe ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-30 ; Times: 4
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-26 ; Times: 6
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "carcharhinus leucas" ; Times: 2
+	Query: "hemiophrys (Bufo OR Anaxyrus)" ; Times: 1
+	Query: "order:cetacea class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:leucocephala genus:Columba family:Columbidae institutioncode:USNM" ; Times: 1
+	Query: "Amphibia Nebraska" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "coluber constrictor virginia" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Reptilia Nebraska" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "order:Rodentia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "hesperosorex" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+
+
+End of report.
