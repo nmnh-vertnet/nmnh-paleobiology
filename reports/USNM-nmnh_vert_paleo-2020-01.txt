@@ -1,0 +1,205 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 153
+Number of records retrieved in searches: 1841
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 141
+	Country: Canada ; Times: 7
+	Country: Guadeloupe ; Times: 1
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 2
+	Date: 2020-01-02 ; Times: 2
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-22 ; Times: 3
+	Date: 2020-01-06 ; Times: 3
+	Date: 2020-01-28 ; Times: 10
+	Date: 2020-01-14 ; Times: 5
+	Date: 2020-01-15 ; Times: 8
+	Date: 2020-01-16 ; Times: 2
+	Date: 2020-01-31 ; Times: 23
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-24 ; Times: 31
+	Date: 2020-01-27 ; Times: 4
+	Date: 2020-01-11 ; Times: 5
+	Date: 2020-01-21 ; Times: 6
+	Date: 2020-01-20 ; Times: 5
+	Date: 2020-01-13 ; Times: 3
+	Date: 2020-01-23 ; Times: 18
+	Date: 2020-01-30 ; Times: 16
+	Date: 2020-01-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "holotype class:aves stateprovince:&#34;hawaii&#34; hastypestatus:1" ; Times: 2
+	Query: "specificepithet:pipiens genus:Rana institutioncode:USNM" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;west Virginia&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Gastrophryne institutioncode:USNM" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "genus:Megalonyx stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Ciconia maltha" ; Times: 2
+	Query: "Nesotrochis steganinos" ; Times: 1
+	Query: "blandingii Emydoidea" ; Times: 1
+	Query: "rhodacanthis" ; Times: 1
+	Query: "specificepithet:americanus genus:Bufo institutioncode:USNM" ; Times: 1
+	Query: "Tachornis uranoceles" ; Times: 2
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:USNM" ; Times: 1
+	Query: "genus:Pterosphenus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "family:Tapiridae stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "BPBM 8718" ; Times: 2
+	Query: "picta Chrysemys" ; Times: 1
+	Query: "Diademodon" ; Times: 1
+	Query: "Geotrygon larva" ; Times: 2
+	Query: "specificepithet:haysii genus:Tapirus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Nesotrochis debooyi" ; Times: 1
+	Query: "Scolopax anthonyi" ; Times: 2
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:USNM" ; Times: 5
+	Query: "Lepidosiren" ; Times: 1
+	Query: "Chlorostilbon bracei" ; Times: 2
+	Query: "order:Proboscidea stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 2
+	Query: "Tyto neddi" ; Times: 2
+	Query: "county:&#34;Sierra&#34; stateprovince:&#34;New Mexico&#34; isfossil:1" ; Times: 1
+	Query: "family:Ursidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "county:&#34;Delaware County&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "genus:Tapirus stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "Coenocorypha" ; Times: 1
+	Query: "specificepithet:baurii genus:Phyllodactylus institutioncode:USNM" ; Times: 6
+	Query: "specificepithet:albilabris genus:Leptodactylus institutioncode:USNM" ; Times: 1
+	Query: "Tyto pollens" ; Times: 2
+	Query: "specificepithet:clamitans genus:Rana institutioncode:USNM" ; Times: 1
+	Query: "stateprovince:&#34;utah&#34; (olson)" ; Times: 1
+	Query: "Dermoptera AND (NOT birds)" ; Times: 1
+	Query: "specificepithet:cognatus genus:Bufo institutioncode:USNM" ; Times: 1
+	Query: "genus:Pterosphenus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Milvago alexandri" ; Times: 2
+	Query: "Chaetoptila angustipluma" ; Times: 1
+	Query: "Panthera onca" ; Times: 9
+	Query: "2256 family:Canidae institutioncode:USNM" ; Times: 1
+	Query: "upupirostris" ; Times: 1
+	Query: "Siphonorhis daiquiri" ; Times: 2
+	Query: "Pedinorhis stirpsarcana" ; Times: 2
+	Query: "family:Equidae stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Dermoptera" ; Times: 3
+	Query: "specificepithet:chrysoscelis genus:Hyla institutioncode:USNM" ; Times: 1
+	Query: "order:Urodela institutioncode:USNM" ; Times: 2
+	Query: "Bubo osvaldoi" ; Times: 2
+	Query: "melanerpes portoricensis" ; Times: 2
+	Query: "DERMOPTERA" ; Times: 3
+	Query: "specificepithet:sylvatica genus:Rana institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:planirostris genus:Eleutherodactylus institutioncode:USNM" ; Times: 1
+	Query: "Columba squamosa" ; Times: 1
+	Query: "genus:Diademodon" ; Times: 2
+	Query: "family:molidae" ; Times: 7
+	Query: "specificepithet:hemiophrys genus:Bufo" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 5
+	Query: "ciridops" ; Times: 1
+	Query: "specificepithet:hemiophrys genus:Bufo institutioncode:USNM" ; Times: 1
+	Query: "county:&#34;lewis&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "Trirachodon" ; Times: 1
+	Query: "genus:Equus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "dermoptera" ; Times: 28
+	Query: "Burhinus bistriatus nanus" ; Times: 1
+	Query: "specificepithet:leptostomus genus:Megalonyx AND (NOT FLORIDA)" ; Times: 1
+	Query: "Tyto cavatica" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 80 (out of 1584 download events in this period)
+Total number of records downloaded: 3019
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 69
+	Country: Netherlands ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 5
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 2
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-04 ; Times: 2
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-20 ; Times: 8
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-08 ; Times: 4
+	Date: 2020-01-25 ; Times: 2
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-26 ; Times: 3
+	Date: 2020-01-29 ; Times: 5
+	Date: 2020-01-28 ; Times: 3
+	Date: 2020-01-30 ; Times: 10
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-10 ; Times: 3
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-31 ; Times: 11
+	Date: 2020-01-23 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "holotype class:aves stateprovince:&#34;hawaii&#34; hastypestatus:1" ; Times: 1
+	Query: "family:Canidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "(DERMOPTERA)" ; Times: 3
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "deirochelys" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "family:Ursidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "family:Didelphidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Urodela institutioncode:USNM" ; Times: 1
+	Query: "Leiocephalus loxogrammus" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "holotype class:aves" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "family:Felidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 2
+	Query: "family:Bovidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "order:dermoptera" ; Times: 1
+	Query: "Dermoptera" ; Times: 6
+	Query: "family:Mustelidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "holotype family:columbidae" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "dermoptera" ; Times: 16
+	Query: "family:Procyonidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Otariidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Leiocephalus carinatus" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "family:Castoridae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "Dasyprocta aguti" ; Times: 1
+	Query: "rainier" ; Times: 1
+	Query: "specificepithet:asio genus:otus institutioncode:USNM" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "family:Cervidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+
+
+End of report.
