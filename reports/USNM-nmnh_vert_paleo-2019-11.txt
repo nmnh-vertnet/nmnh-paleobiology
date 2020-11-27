@@ -1,0 +1,141 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 464
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 35
+	Country: Denmark ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Peru ; Times: 1
+	Country: Thailand ; Times: 5
+	Country: Dominican Republic ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-21 ; Times: 8
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-19 ; Times: 3
+	Date: 2019-11-26 ; Times: 8
+	Date: 2019-11-08 ; Times: 2
+	Date: 2019-11-09 ; Times: 2
+	Date: 2019-11-06 ; Times: 2
+	Date: 2019-11-07 ; Times: 4
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-16 ; Times: 2
+	Date: 2019-11-03 ; Times: 6
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-12 ; Times: 5
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-27 ; Times: 2
+	Date: 2019-11-29 ; Times: 3
+	Date: 2019-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vini" ; Times: 1
+	Query: "genus:Rallus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "diodon hystrix linnaeus" ; Times: 2
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "raphus cucullatus" ; Times: 5
+	Query: "pelagodroma marina USNM" ; Times: 1
+	Query: "genus:Pseudocarcharias" ; Times: 1
+	Query: "Drymarchon couperi 2016" ; Times: 4
+	Query: "Drymarchon couperi 2017" ; Times: 4
+	Query: "genus:Erophylla institutioncode:usnm" ; Times: 1
+	Query: "family:Gekkonidae institutioncode:USNM" ; Times: 1
+	Query: "genus:Lasiurus institutioncode:usnm" ; Times: 1
+	Query: "genus:Plagiodontia country:&#34;Dominican Republic&#34;" ; Times: 1
+	Query: "Andrias" ; Times: 2
+	Query: "genus:Leptosomus institutioncode:USNM" ; Times: 2
+	Query: "gbifdatasetid:5df38344-b821-49c2-8174-cf0f29f4df0d-Paleo" ; Times: 1
+	Query: "Oreomystis bairdi" ; Times: 1
+	Query: "Bridger formation class:mammalia order:marsupialia" ; Times: 1
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "pendleton specificepithet:jeffersonianum genus:ambystoma" ; Times: 2
+	Query: "genus:Corynorhinus institutioncode:usnm" ; Times: 1
+	Query: "pakicetidae" ; Times: 1
+	Query: "order:Chiroptera county:&#34;White Pine&#34;" ; Times: 1
+	Query: "canis lepophagus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "lampropeltis triangulum virginia USNM" ; Times: 1
+	Query: "vntype:specimen genus:Andrias" ; Times: 1
+	Query: "genus:Calonectris institutioncode:USNM" ; Times: 1
+	Query: "pterodroma phaeopygia galapagos" ; Times: 1
+	Query: "holotype family:Teiidae hastypestatus:1 hasmedia:1" ; Times: 1
+	Query: "genus:Mitsukurina" ; Times: 1
+	Query: "genus:Brachyphylla institutioncode:usnm" ; Times: 1
+	Query: "genus:Antrozous institutioncode:usnm" ; Times: 1
+	Query: "genus:epicrates specificepithet:striatus institutioncode:fmnh OR mpm OR usnm OR ansp OR asnhc OR aum OR bummc OR mmnh OR blb OR bsns OR csuc OR csulb OR crcm OR ccber OR chas OR cmnh OR cumv" ; Times: 1
+	Query: "genus:Coenocorypha" ; Times: 1
+	Query: "specificepithet:paradoxus genus:solenodon country:&#34;Dominican Republic&#34;" ; Times: 2
+	Query: "Lutra lutra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1367 download events in this period)
+Total number of records downloaded: 11168
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 21
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: China ; Times: 1
+	Country: Thailand ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-18 ; Times: 2
+	Date: 2019-11-08 ; Times: 1
+	Date: 2019-11-27 ; Times: 3
+	Date: 2019-11-06 ; Times: 3
+	Date: 2019-11-07 ; Times: 3
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-12 ; Times: 3
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-28 ; Times: 3
+	Date: 2019-11-29 ; Times: 3
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vini" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 4
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "genus:nerodia specificepithet:sipedon institutioncode:fmnh OR mpm OR usnm OR ansp OR asnhc OR aum OR bummc OR mmnh OR blb OR bsns OR csuc OR csulb OR crcm OR ccber OR chas OR cmnh OR cumv" ; Times: 1
+	Query: "genus:Pterodroma institutioncode:USNM" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "genus:Puffinus institutioncode:USNM" ; Times: 1
+	Query: "Andrias" ; Times: 1
+	Query: "family:Natalidae institutioncode:usnm" ; Times: 1
+	Query: "genus:agkistrodon specificepithet:contortrix institutioncode:fmnh OR mpm OR usnm OR ansp OR asnhc OR aum OR bummc OR mmnh OR blb OR bsns OR csuc OR csulb OR crcm OR ccber OR chas OR cmnh OR cumv" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 2
+	Query: "family:Diomedeidae institutioncode:USNM" ; Times: 1
+	Query: "family:Rhinolophidae institutioncode:usnm" ; Times: 1
+	Query: "Anolis grahami" ; Times: 1
+	Query: "monachus tropicalis" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "family:Hipposideridae institutioncode:usnm" ; Times: 1
+	Query: "genus:nerodia specificepithet:sipedon institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "specificepithet:brachystoma genus:Thamnophis" ; Times: 1
+	Query: "genus:epicrates specificepithet:striatus institutioncode:fmnh OR mpm OR usnm OR ansp OR asnhc OR aum OR bummc OR mmnh OR blb OR bsns OR csuc OR csulb OR crcm OR ccber OR chas OR cmnh OR cumv" ; Times: 1
+	Query: "family:Procellariidae institutioncode:USNM" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "family:Hydrobatidae institutioncode:USNM" ; Times: 1
+	Query: "(tilapia)" ; Times: 1
+
+
+End of report.
