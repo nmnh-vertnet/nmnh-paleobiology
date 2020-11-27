@@ -1,0 +1,171 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 364
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 39
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Ireland ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-30 ; Times: 6
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-16 ; Times: 4
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-06 ; Times: 6
+	Date: 2020-05-07 ; Times: 3
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-10 ; Times: 2
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-17 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "USNM B-3611" ; Times: 1
+	Query: "specificepithet:breviceps genus:Kogia stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes hasmedia:1" ; Times: 1
+	Query: "genus:Coragyps institutioncode:USNM" ; Times: 1
+	Query: "Sphenodon" ; Times: 4
+	Query: "genus:Dasypus stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "Megaladapis" ; Times: 1
+	Query: "genus:Ptilodus (Paleogene OR Paleocene)" ; Times: 1
+	Query: "genus:Borealosuchus (Paleogene OR Paleocene)" ; Times: 4
+	Query: "genus:Baena (Maastrichtian)" ; Times: 1
+	Query: "Tyrannosaurus rex" ; Times: 1
+	Query: "Ornithomimus" ; Times: 1
+	Query: "family:Felidae hastypestatus:1 isfossil:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:migratorius genus:Ectopistes hasmedia:1" ; Times: 1
+	Query: "Dimetrodon" ; Times: 1
+	Query: "genus:Baena (Paleocene)" ; Times: 2
+	Query: "Anas wyvilliana" ; Times: 2
+	Query: "class:mammalia county:&#34;Furnas&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Grampus griseus" ; Times: 1
+	Query: "county:&#34;henrico&#34; stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 1
+	Query: "recordedby:bicknell institutioncode:USNM" ; Times: 1
+	Query: "specificepithet: triangulum genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "county:&#34;Henrico&#34; isfossil:1" ; Times: 1
+	Query: "genus:Loxolophus (Paleocene)" ; Times: 1
+	Query: "class:mammalia county:&#34;frontier&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:tristis genus:Acridotheres institutioncode:USNM" ; Times: 1
+	Query: "genus:Protungulatum (Maastrichtian)" ; Times: 1
+	Query: "Pentaceratops" ; Times: 2
+	Query: "class:mammalia county:&#34;furnas&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Geotrygon mystacea" ; Times: 2
+	Query: "family:Ursidae lifestage:adult" ; Times: 1
+	Query: "Acrocanthosaurus" ; Times: 1
+	Query: "genus:Dimetrodon" ; Times: 1
+	Query: "akers" ; Times: 1
+	Query: "Utahraptor" ; Times: 2
+	Query: "genus:Oxyclaenus (Paleocene)" ; Times: 1
+	Query: "Dimetrodon limbatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1106 download events in this period)
+Total number of records downloaded: 4461
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Singapore ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 40
+	Country: Germany ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-30 ; Times: 5
+	Date: 2020-05-23 ; Times: 4
+	Date: 2020-05-22 ; Times: 4
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 2
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-09 ; Times: 2
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-07 ; Times: 4
+	Date: 2020-05-06 ; Times: 6
+	Date: 2020-05-05 ; Times: 3
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 2
+	Date: 2020-05-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "genus:Ptilodus (Paleogene OR Paleocene)" ; Times: 1
+	Query: "genus:Borealosuchus (Paleogene OR Paleocene)" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 1
+	Query: "genus:Baena (Maastrichtian)" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaveola genus:Coereba institutioncode:USNM" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "family:Felidae hastypestatus:1 isfossil:1" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 1
+	Query: "bone valley" ; Times: 1
+	Query: "vntype:specimen specificepithet:phoeniceus genus:Agelaius institutioncode:USNM" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "Thamnophis brachystoma" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "reptilia oregon" ; Times: 1
+	Query: "vntype:specimen specificepithet:petechia genus:Dendroica institutioncode:USNM" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "Amazona leucocephala leucocephala" ; Times: 2
+	Query: "genus:Gulo" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "NOTOPHTHALMUS VIRIDESCENS" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "genus:Loxolophus (Paleocene)" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "genus:Protungulatum (Maastrichtian)" ; Times: 1
+	Query: "Geotrygon mystacea" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "Notophthalmus viridescens" ; Times: 3
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "genus:Oxyclaenus (Paleocene)" ; Times: 1
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+
+
+End of report.
