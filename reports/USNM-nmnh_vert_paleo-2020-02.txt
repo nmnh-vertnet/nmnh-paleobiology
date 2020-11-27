@@ -1,0 +1,196 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 206
+Number of records retrieved in searches: 2517
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 191
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-02 ; Times: 19
+	Date: 2020-02-04 ; Times: 25
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-03 ; Times: 42
+	Date: 2020-02-05 ; Times: 32
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-11 ; Times: 4
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-26 ; Times: 3
+	Date: 2020-02-01 ; Times: 37
+	Date: 2020-02-06 ; Times: 12
+	Date: 2020-02-07 ; Times: 2
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-18 ; Times: 4
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 4
+	Date: 2020-02-28 ; Times: 5
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "pliophoca" ; Times: 1
+	Query: "megachasma" ; Times: 1
+	Query: "Caretta vntype:specimen hasmedia:1" ; Times: 1
+	Query: "Nimravides" ; Times: 1
+	Query: "genus:Robertia" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:casmerodius class:aves country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Globicephala stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "pontophoca" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:USNM" ; Times: 1
+	Query: "genus:Anolis country:&#34;Puerto Rico&#34; institutioncode:USNM" ; Times: 1
+	Query: "MBR 2165" ; Times: 1
+	Query: "heterodon stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "ORDER DERMOPTERA" ; Times: 2
+	Query: "genus:Cynognathus" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "loxodon" ; Times: 1
+	Query: "Dimetrodon" ; Times: 1
+	Query: "agkistrodon stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "genus:Rhachiocephalus" ; Times: 1
+	Query: "molidae" ; Times: 1
+	Query: "specificepithet:baurii genus:Phyllodactylus institutioncode:USNM" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Tomistoma vntype:specimen hasmedia:1" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 1
+	Query: "tenontosaurus" ; Times: 4
+	Query: "&#34;Dermoptera&#34;" ; Times: 2
+	Query: "callophoca" ; Times: 1
+	Query: "family:Canidae (2256) institutioncode:USNM" ; Times: 1
+	Query: "genus:Fisherichthys country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:castor stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:interruptus genus:Archoplites stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 7
+	Query: "specificepithet:obscurus genus:hemignathus" ; Times: 3
+	Query: "family:Canidae (3074) institutioncode:USNM" ; Times: 2
+	Query: "crotalus horridus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "opheodrys vernalis west Virginia" ; Times: 1
+	Query: "Dermoptera" ; Times: 56
+	Query: "Pterodroma phaeopygia USNM" ; Times: 1
+	Query: "pterodroma galapagos" ; Times: 1
+	Query: "2256 family:Canidae institutioncode:USNM" ; Times: 1
+	Query: "dermoptera" ; Times: 83
+	Query: "genus:Hydrochoerus institutioncode:USNM" ; Times: 2
+	Query: "recordedby:&#34;W. Day&#34;" ; Times: 1
+	Query: "pterodroma galapagos USNM" ; Times: 1
+	Query: "family:Canidae (3086) institutioncode:USNM" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "Kinosternon arizonense" ; Times: 4
+	Query: "genus:Dimetrodon" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 119 (out of 1023 download events in this period)
+Total number of records downloaded: 7823
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: El Salvador ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 99
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: Iraq ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 14
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-03 ; Times: 16
+	Date: 2020-02-26 ; Times: 3
+	Date: 2020-02-27 ; Times: 4
+	Date: 2020-02-20 ; Times: 3
+	Date: 2020-02-07 ; Times: 3
+	Date: 2020-02-04 ; Times: 13
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-28 ; Times: 2
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 5
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-19 ; Times: 6
+	Date: 2020-02-02 ; Times: 13
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-01 ; Times: 4
+	Date: 2020-02-06 ; Times: 17
+	Date: 2020-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "genus:Dasyprocta institutioncode:USNM" ; Times: 1
+	Query: "Nimravides" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Canidae institutioncode:USNM" ; Times: 2
+	Query: "deirochelys" ; Times: 2
+	Query: "genus:Agkistrodon basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Anolis country:&#34;Puerto Rico&#34; institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Amazona leucocephala" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "genus:macrochelys" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 2
+	Query: "Arequipa" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Monachus tropicalis" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "genus:Geochelone (Galapagos OR Ecuador)" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "vntype:specimen order:Primates family:Lorisidae" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "specificepithet:canadensis genus:castor stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "(dermoptera)" ; Times: 5
+	Query: "order:dermoptera" ; Times: 3
+	Query: "Dermoptera" ; Times: 26
+	Query: "Monachus" ; Times: 1
+	Query: "dermoptera" ; Times: 29
+	Query: "genus:Hydrochoerus institutioncode:USNM" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "family:apodidae (fluid OR wet OR whole)" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+
+
+End of report.
