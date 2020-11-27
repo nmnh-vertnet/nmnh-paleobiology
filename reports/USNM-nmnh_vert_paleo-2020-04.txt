@@ -1,0 +1,195 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 136
+Number of records retrieved in searches: 2545
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 96
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-02 ; Times: 3
+	Date: 2020-04-07 ; Times: 41
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-10 ; Times: 3
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 5
+	Date: 2020-04-14 ; Times: 6
+	Date: 2020-04-22 ; Times: 4
+	Date: 2020-04-30 ; Times: 2
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-21 ; Times: 34
+	Date: 2020-04-26 ; Times: 3
+	Date: 2020-04-01 ; Times: 7
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-03 ; Times: 13
+	Date: 2020-04-28 ; Times: 3
+	Date: 2020-04-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Coelophysis bauri" ; Times: 2
+	Query: "ziphius cavirostris isfossil:1" ; Times: 1
+	Query: "Dinornis giganteus" ; Times: 3
+	Query: "Turdus plumbeus" ; Times: 9
+	Query: "Calonectris diomedea" ; Times: 3
+	Query: "family:Mammutidae stateprovince:&#34;California&#34; basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "burhinus nanus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Dorchester&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Dorchester&#34; stateprovince:&#34;South Carolina&#34; institutioncode:USNM" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 2
+	Query: "genus:Dasypus stateprovince:&#34;Carolina&#34;" ; Times: 1
+	Query: "Buteo solitarius" ; Times: 4
+	Query: "Palaeogale" ; Times: 1
+	Query: "Tyrannosaurus rex" ; Times: 1
+	Query: "Psittirostra psittacea" ; Times: 3
+	Query: "MBR 4510" ; Times: 2
+	Query: "heterodon stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "albertosaurus" ; Times: 1
+	Query: "genus:Trachemys class:Reptilia county:&#34;Dorchester&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "Oreomystis bairdi" ; Times: 3
+	Query: "Pseudonestor xanthophrys" ; Times: 3
+	Query: "cryptobranchus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "Felis catus year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "Homo sapiens" ; Times: 12
+	Query: "vntype:specimen specificepithet:castro country:&#34;united states&#34;" ; Times: 3
+	Query: "Ovis dalli" ; Times: 4
+	Query: "Chaetoptila angustipluma" ; Times: 1
+	Query: "Panthera onca" ; Times: 4
+	Query: "vntype:specimen genus:Dasypus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "USNM 1423" ; Times: 2
+	Query: "Oceanodroma castro" ; Times: 4
+	Query: "class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:arizonense genus:kinosternon" ; Times: 2
+	Query: "Sula dactylatra" ; Times: 3
+	Query: "Equus asinus" ; Times: 2
+	Query: "specificepithet:obscurus genus:Myadestes stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "USNM 9180" ; Times: 2
+	Query: "county:&#34;Hamilton&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 4
+	Query: "Merluccius bilinearis" ; Times: 6
+	Query: "Felis catus" ; Times: 4
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "genus:Chelydra class:Reptilia county:&#34;Dorchester&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Branta sandvicensis" ; Times: 5
+	Query: "Ptychocheilus oregonensis" ; Times: 2
+	Query: "vntype:specimen genus:Carcharodon hasmedia:1" ; Times: 1
+	Query: "class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "county:&#34;lewis&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "specificepithet:arizonense genus:Kinosternon" ; Times: 1
+	Query: "crotalus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "Lutra lutra" ; Times: 9
+	Query: "Fulica chathamensis" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1171 download events in this period)
+Total number of records downloaded: 4259
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 47
+	Country: Australia ; Times: 2
+	Country: Lithuania ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-23 ; Times: 8
+	Date: 2020-04-20 ; Times: 5
+	Date: 2020-04-21 ; Times: 3
+	Date: 2020-04-01 ; Times: 3
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-03 ; Times: 3
+	Date: 2020-04-28 ; Times: 9
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-09 ; Times: 1
+	Date: 2020-04-27 ; Times: 2
+	Date: 2020-04-18 ; Times: 2
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 3
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Bison antiquus" ; Times: 1
+	Query: "emydoidea" ; Times: 3
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "Tremarctos" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "class:Mammalia county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "smilodon fatalis" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Heterodon" ; Times: 1
+	Query: "Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "vntype:specimen family:Spheniscidae institutioncode:USNM" ; Times: 1
+	Query: "eretmochelys" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "vntype:specimen (Antarctica) isfossil:1" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "vntype:specimen genus:Dasypus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "blandingii" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;California&#34; country:&#34;United States&#34; hastypestatus:1" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen family:Echimyidae" ; Times: 1
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "class:Mammalia county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "vntype:specimen family:Gliridae" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "vntype:specimen genus:Lontra" ; Times: 1
+
+
+End of report.
