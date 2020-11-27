@@ -1,0 +1,144 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 655
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ukraine ; Times: 2
+	Country: United States ; Times: 29
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 11
+	Country: Austria ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-06 ; Times: 3
+	Date: 2020-03-02 ; Times: 4
+	Date: 2020-03-26 ; Times: 4
+	Date: 2020-03-19 ; Times: 4
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-31 ; Times: 5
+	Date: 2020-03-25 ; Times: 4
+	Date: 2020-03-24 ; Times: 4
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-22 ; Times: 5
+	Date: 2020-03-18 ; Times: 11
+	Date: 2020-03-20 ; Times: 2
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-23 ; Times: 5
+	Date: 2020-03-14 ; Times: 2
+	Date: 2020-03-11 ; Times: 3
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-03 ; Times: 2
+	Date: 2020-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Palaeogaleus mississippi" ; Times: 1
+	Query: "usnm 6653 class:aves" ; Times: 1
+	Query: "bulweria institutioncode:USNM" ; Times: 1
+	Query: "genus:Edaphosaurus institutioncode:USNM" ; Times: 1
+	Query: "class:Reptilia county:&#34;Lancaster&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "recordnumber:878 institutioncode:USNM" ; Times: 2
+	Query: "Cretoxyrhina mississippi" ; Times: 2
+	Query: "specificepithet:marsupialis genus:didelphis stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "genus:Chelydra class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "(cryptobranchus alleganiensis) isfossil:1" ; Times: 1
+	Query: "class:Reptilia county:&#34;Converse&#34; stateprovince:&#34;Wyoming&#34; AND (NOT PDBD)" ; Times: 2
+	Query: "genus:Teratornis hasmedia:1" ; Times: 3
+	Query: "Corynorhinus alleganiensis" ; Times: 1
+	Query: "V1234" ; Times: 1
+	Query: "pterodroma magentae" ; Times: 6
+	Query: "specificepithet:picta genus:Chrysemys class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Rhinolophus grivensis" ; Times: 1
+	Query: "holotype family:Teiidae hastypestatus:1 hasmedia:1" ; Times: 1
+	Query: "Anolis cuvieri" ; Times: 1
+	Query: "genus:Ophiacodon" ; Times: 1
+	Query: "genus:Pinguinus" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "genus:Chaetoptila" ; Times: 1
+	Query: "recordnumber:1422 institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen (cryptobranchus alleganiensis) isfossil:1" ; Times: 1
+	Query: "Anas wyvilliana" ; Times: 1
+	Query: "Archaeopteryx lithographica isfossil:1" ; Times: 1
+	Query: "Grampus griseus" ; Times: 2
+	Query: "specificepithet:truncatus genus:Tursiops stateprovince:&#34;Maryland&#34; institutioncode:USNM" ; Times: 1
+	Query: "class:Reptilia county:&#34;Carter&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "genus:Bison stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "Chondrichthyes Solnhofen" ; Times: 1
+	Query: "class:Reptilia county:&#34;Bowman&#34; stateprovince:&#34;North Dakota&#34; AND (NOT PDBD)" ; Times: 1
+	Query: "class:Reptilia county:&#34;Billings&#34; stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "specificepithet:marsupialis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Desmodus stocki" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Rhinolophus delphinensis" ; Times: 1
+	Query: "Icaronycteris index" ; Times: 2
+	Query: "Myotis aemulus" ; Times: 2
+	Query: "Squalicorax mississippi" ; Times: 1
+	Query: "Teratornis" ; Times: 2
+	Query: "Clidastes mississippi" ; Times: 1
+	Query: "Anolis angusticeps" ; Times: 2
+	Query: "Archaeopteryx lithographica" ; Times: 1
+	Query: "Anolis occultus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 853 download events in this period)
+Total number of records downloaded: 249
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: United States ; Times: 19
+	Country: Germany ; Times: 1
+	Country: Guadeloupe ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-05 ; Times: 5
+	Date: 2020-03-26 ; Times: 2
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-20 ; Times: 2
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-17 ; Times: 3
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-03 ; Times: 2
+	Date: 2020-03-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:blandingii" ; Times: 1
+	Query: "(cryptobranchus alleganiensis) isfossil:1" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "&#34;Columba leucocephala&#34; OR &#34;Patagioenas leucocephala&#34; vntype:specimen" ; Times: 3
+	Query: "vntype:specimen (cryptobranchus alleganiensis) isfossil:1" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "genus:Alligator country:&#34;United States&#34;" ; Times: 1
+	Query: "Anas wyvilliana" ; Times: 1
+	Query: "genus:Gopherus" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra institutioncode:USNM" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:flavescens genus:Kinosternon" ; Times: 1
+	Query: "pseudotriton" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "specificepithet:marsupialis genus:didelphis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+
+
+End of report.
