@@ -1,0 +1,110 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 517
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: United Kingdom ; Times: 11
+	Country: Mexico ; Times: 7
+	Country: Ireland ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 5
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-05 ; Times: 7
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-30 ; Times: 3
+	Date: 2020-07-07 ; Times: 13
+	Date: 2020-07-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Tyrannosaurus Rex" ; Times: 1
+	Query: "family:Scincidae class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Peltophryne lemur" ; Times: 1
+	Query: "hesperosorex lovei" ; Times: 2
+	Query: "family:Colubridae county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "county:&#34;Henrico&#34; stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 6
+	Query: "Alopias superciliosus" ; Times: 3
+	Query: "MAR 8559" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 2
+	Query: "class:reptilia county:&#34;Sublette&#34;" ; Times: 1
+	Query: "genus:Equus institutioncode:USNM" ; Times: 2
+	Query: "Alopias" ; Times: 2
+	Query: "hastypestatus:1 Lutra" ; Times: 11
+	Query: "Centrocercus urophasianus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 940 download events in this period)
+Total number of records downloaded: 11006
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 15
+	Country: Australia ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 2
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-06 ; Times: 3
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-10 ; Times: 3
+	Date: 2020-07-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;morocco&#34; year &gt;= 1971 year &lt;= 1972" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:Smilodon" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+
+
+End of report.
