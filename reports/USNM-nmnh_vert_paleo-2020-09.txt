@@ -1,0 +1,172 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 1754
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 25
+	Country: United States ; Times: 29
+	Country: Colombia ; Times: 1
+	Country: Greece ; Times: 10
+	Country: Belgium ; Times: 1
+	Country: Taiwan ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 6
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-16 ; Times: 12
+	Date: 2020-09-17 ; Times: 7
+	Date: 2020-09-25 ; Times: 3
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-13 ; Times: 2
+	Date: 2020-09-29 ; Times: 5
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-18 ; Times: 23
+	Date: 2020-09-19 ; Times: 1
+	Date: 2020-09-09 ; Times: 3
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-20 ; Times: 3
+	Date: 2020-09-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Dasyatis centroura" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Phorusrhacidae" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;illinois&#34;" ; Times: 2
+	Query: "fowleri stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "specificepithet:inexpectatus genus:Miracinonyx" ; Times: 4
+	Query: "latimeria" ; Times: 1
+	Query: "puffinus puffinus canary" ; Times: 2
+	Query: "BPBM 8718" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Megalops atlanticus country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:USNM" ; Times: 2
+	Query: "Tetrapturus albidus" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Acanthocybium solandri" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "family:Sulidae year &gt;= 1987 year &lt;= 1991" ; Times: 2
+	Query: "genus:Aspideretes" ; Times: 1
+	Query: "specificepithet:baurii genus:Phyllodactylus institutioncode:USNM" ; Times: 2
+	Query: "family:Rhinocerotidae country:Greece" ; Times: 7
+	Query: "genus:Miracinonyx" ; Times: 5
+	Query: "Sarda sarda" ; Times: 1
+	Query: "family:Sulidae year &gt;= 1989 year &lt;= 1991" ; Times: 2
+	Query: "Diodon hystrix" ; Times: 1
+	Query: "Miracinonyx inexpectatus" ; Times: 1
+	Query: "Crenidens crenidens" ; Times: 1
+	Query: "Pagrus pagrus" ; Times: 1
+	Query: "Solea solea" ; Times: 3
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "titanoides" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus haslifestage:1" ; Times: 1
+	Query: "odocoileus sp." ; Times: 1
+	Query: "Xiphias gladius" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae order:Artiodactyla hasmedia:1 isfossil:1" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 1
+	Query: "scientificname:Geospiza fortis" ; Times: 2
+	Query: "family:Rhinocerotidae country:&#34;Greece&#34;" ; Times: 3
+	Query: "amazona vittata" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae order:Artiodactyla hasmedia:1" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 976 download events in this period)
+Total number of records downloaded: 4233
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Ghana ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Fiji ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 30
+	Country: Uganda ; Times: 1
+	Country: Greece ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Panama ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-13 ; Times: 2
+	Date: 2020-09-29 ; Times: 6
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 5
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-09 ; Times: 3
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-25 ; Times: 3
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "emydoidea" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:inexpectatus genus:Miracinonyx" ; Times: 2
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "country:&#34;bermuda&#34;" ; Times: 1
+	Query: "specificepithet:primigenius genus:mammuthus" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "specificepithet:maritimus genus:Ursus haslifestage:1" ; Times: 3
+	Query: "leptodactylidae" ; Times: 1
+	Query: "family:Rhinocerotidae country:&#34;Greece&#34;" ; Times: 1
+	Query: "Miracinonyx inexpectatus" ; Times: 1
+	Query: "order:Serpentes" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 2
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "genus:zapus institutioncode:USNM" ; Times: 1
+
+
+End of report.
