@@ -1,0 +1,71 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 229
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 18
+	Country: Switzerland ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 2
+	Date: 2020-06-24 ; Times: 1
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-14 ; Times: 4
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-10 ; Times: 8
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-28 ; Times: 15
+	Date: 2020-06-29 ; Times: 1
+	Date: 2020-06-17 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Homo sapiens" ; Times: 18
+	Query: "specificepithet:europaeus genus:Mesoplodon" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Canal Zone&#34; country:&#34;Panama&#34; AND (NOT MCZ NOT KU NOT AMNH NOT FMNH NOT UF) institutioncode:USNM" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 6
+	Query: "scientificname:emydoidea blandingii" ; Times: 18
+	Query: "family:Nimravidae hasmedia:1" ; Times: 1
+	Query: "procolophon" ; Times: 1
+	Query: "genus:Tropidophis" ; Times: 2
+	Query: "Dimetrodon limbatus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Canal Zone&#34; country:&#34;Panama&#34; AND (NOT MCZ NOT KU NOT AMNH NOT FMNH NOT UF)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 474 download events in this period)
+Total number of records downloaded: 66
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-10 ; Times: 5
+	Date: 2020-06-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "vntype:specimen specificepithet:brachyrhynchos genus:Corvus institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+
+
+End of report.
