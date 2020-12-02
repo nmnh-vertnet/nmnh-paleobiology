@@ -1,0 +1,214 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 157
+Number of records retrieved in searches: 1479
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 16
+	Country: Mexico ; Times: 10
+	Country: France ; Times: 11
+	Country: United States ; Times: 111
+	Country: Colombia ; Times: 3
+	Country: Greece ; Times: 4
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 2
+	Date: 2020-11-21 ; Times: 4
+	Date: 2020-11-22 ; Times: 1
+	Date: 2020-11-23 ; Times: 8
+	Date: 2020-11-19 ; Times: 2
+	Date: 2020-11-18 ; Times: 3
+	Date: 2020-11-08 ; Times: 1
+	Date: 2020-11-09 ; Times: 2
+	Date: 2020-11-15 ; Times: 3
+	Date: 2020-11-07 ; Times: 2
+	Date: 2020-11-27 ; Times: 10
+	Date: 2020-11-02 ; Times: 14
+	Date: 2020-11-10 ; Times: 66
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-28 ; Times: 9
+	Date: 2020-11-26 ; Times: 4
+	Date: 2020-11-30 ; Times: 4
+	Date: 2020-11-24 ; Times: 15
+	Date: 2020-11-25 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Balaenoptera physalus" ; Times: 2
+	Query: "scientificname:Lepus americanus" ; Times: 2
+	Query: "scientificname:Panthera onca" ; Times: 3
+	Query: "Coenocorypha pusilla" ; Times: 1
+	Query: "scientificname:Felis catus" ; Times: 2
+	Query: "vntype:specimen genus:Marmota stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "scientificname:Halichoerus grypus" ; Times: 4
+	Query: "scientificname:Grampus griseus" ; Times: 2
+	Query: "W. Yeates" ; Times: 2
+	Query: "vntype:specimen genus:Castor stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "scientificname:Castor Canadensis" ; Times: 6
+	Query: "specificepithet:rosmarus genus:Odobenus institutioncode:USNM" ; Times: 1
+	Query: "Crenidens crenidens" ; Times: 1
+	Query: "Yeates" ; Times: 1
+	Query: "Moho braccatus" ; Times: 1
+	Query: "scientificname:Kogia breviceps" ; Times: 2
+	Query: "scientificname:Delphinus delphis" ; Times: 2
+	Query: "scientificname:Sciurus carolinensis" ; Times: 1
+	Query: "genus:megaptera year &gt;= 1950 year &lt;= 1960" ; Times: 1
+	Query: "scientificname:Balaenoptera acutorostrata" ; Times: 6
+	Query: "scientificname:Balaenoptera musculus" ; Times: 2
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:megaptera year &gt;= 1905 year &lt;= 1908" ; Times: 1
+	Query: "Tapirus LACM" ; Times: 3
+	Query: "scientificname:Sus scrofa" ; Times: 2
+	Query: "specificepithet:catenifer genus:Pituophis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "scientificname:Cynomys ludovicianus" ; Times: 2
+	Query: "genus:megaptera year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "Eryops" ; Times: 2
+	Query: "Seymouria" ; Times: 2
+	Query: "scientificname:Delphinapterus leucas" ; Times: 2
+	Query: "scientificname:Phoca vitulina" ; Times: 4
+	Query: "CM 9873" ; Times: 2
+	Query: "Carcharhinus plumbeus" ; Times: 3
+	Query: "genus:Chrysemys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "scientificname:Phoca vitulina stateprovince:new york" ; Times: 7
+	Query: "Homo sapiens" ; Times: 7
+	Query: "scientificname:Alosa alosa" ; Times: 5
+	Query: "Stenotomus chrysops" ; Times: 2
+	Query: "Chaetoptila angustipluma" ; Times: 1
+	Query: "family:Trionychidae stateprovince:&#34;Virginia&#34; isfossil:1" ; Times: 1
+	Query: "genus:Lampris stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Trionychidae stateprovince:&#34;South Carolina&#34; isfossil:1" ; Times: 1
+	Query: "Diplocaulus" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "Alopias superciliosus" ; Times: 1
+	Query: "scientificname:Balaenoptera borealis" ; Times: 2
+	Query: "genus:Decapterus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Lontra canadensis" ; Times: 2
+	Query: "scientificname:Ziphius cavirostris" ; Times: 1
+	Query: "genus:Diadophis isfossil:1" ; Times: 1
+	Query: "scientificname:Lasiurus borealis" ; Times: 4
+	Query: "family:Rhinocerotidae country:&#34;Greece&#34;" ; Times: 4
+	Query: "scientificname:Ursus americanus" ; Times: 2
+	Query: "scientificname:Gulo gulo" ; Times: 4
+	Query: "Dasyatis centroura" ; Times: 1
+	Query: "Eryops Megacephalus" ; Times: 4
+	Query: "Felis catus" ; Times: 1
+	Query: "specificepithet:constrictor genus:coluber stateprovince:&#34;Florida&#34; institutioncode:USNM" ; Times: 1
+	Query: "Lamna nasus" ; Times: 1
+	Query: "scientificname:Lagenorhynchus acutus" ; Times: 2
+	Query: "scientificname:Marmota monax" ; Times: 2
+	Query: "scientificname:Bison bison" ; Times: 4
+	Query: "Ichthyostega" ; Times: 1
+	Query: "genus:megaptera year &gt;= 1920 year &lt;= 1924" ; Times: 1
+	Query: "genus:megaptera year &gt;= 1945 year &lt;= 1949" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "family:Trionychidae stateprovince:&#34;North Carolina&#34; isfossil:1" ; Times: 1
+	Query: "genus:raphus" ; Times: 3
+	Query: "Diodon hystrix" ; Times: 1
+	Query: "scientificname:Neotoma magister" ; Times: 2
+	Query: "flory" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Wyoming&#34; year &gt;= 1985 year &lt;= 1985" ; Times: 1
+	Query: "genus:Chelydra stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Lamna ditropis" ; Times: 4
+	Query: "scientificname:Phocoena phocoena" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 842 download events in this period)
+Total number of records downloaded: 5334
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 55
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 4
+	Date: 2020-11-23 ; Times: 5
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-25 ; Times: 3
+	Date: 2020-11-08 ; Times: 4
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-06 ; Times: 4
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-04 ; Times: 3
+	Date: 2020-11-05 ; Times: 3
+	Date: 2020-11-02 ; Times: 2
+	Date: 2020-11-03 ; Times: 7
+	Date: 2020-11-26 ; Times: 2
+	Date: 2020-11-28 ; Times: 7
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-15 ; Times: 1
+	Date: 2020-11-17 ; Times: 1
+	Date: 2020-11-16 ; Times: 3
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-13 ; Times: 2
+	Date: 2020-11-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "vntype:specimen specificepithet:herodias genus:Ardea" ; Times: 2
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "W. Yeates" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Ovis dalli" ; Times: 1
+	Query: "Microtus oeconomus" ; Times: 1
+	Query: "genus:megaptera year &gt;= 1905 year &lt;= 1908" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "genus:megaptera year &gt;= 1950 year &lt;= 1960" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Tropidophis" ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "Chaetoptila angustipluma" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Alces" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "specificepithet:petechia" ; Times: 1
+	Query: "eptesicus fuscus" ; Times: 1
+	Query: "cope" ; Times: 1
+	Query: "Moho braccatus" ; Times: 1
+	Query: "Mus musculus" ; Times: 2
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "hyla chrysoscelis" ; Times: 2
+	Query: "vulpes vulpes" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:clangula" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Erethizon" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "chrysoscelis" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 2
+	Query: "genus:megaptera year &gt;= 1920 year &lt;= 1924" ; Times: 1
+	Query: "Bison bison" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Desmognathus ochrophaeus" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "genus:megaptera year &gt;= 1970 year &lt;= 1980" ; Times: 1
+	Query: "genus:megaptera year &gt;= 1945 year &lt;= 1949" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "genus:megaptera year &gt;= 1976 year &lt;= 1979" ; Times: 1
+
+
+End of report.
