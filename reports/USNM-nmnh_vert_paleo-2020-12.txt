@@ -1,0 +1,178 @@
+Report for Institution Code USNM, Resource nmnh_vert_paleo
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 107
+Number of records retrieved in searches: 3272
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: United Kingdom ; Times: 20
+	Country: Finland ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 48
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 7
+	Date: 2020-12-09 ; Times: 8
+	Date: 2020-12-08 ; Times: 15
+	Date: 2020-12-07 ; Times: 7
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-05 ; Times: 2
+	Date: 2020-12-04 ; Times: 16
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-02 ; Times: 2
+	Date: 2020-12-01 ; Times: 6
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-26 ; Times: 2
+	Date: 2020-12-20 ; Times: 1
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-18 ; Times: 2
+	Date: 2020-12-19 ; Times: 2
+	Date: 2020-12-10 ; Times: 3
+	Date: 2020-12-11 ; Times: 12
+	Date: 2020-12-14 ; Times: 12
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Alopias vulpinus" ; Times: 1
+	Query: "scientificname:Xiphias gladius" ; Times: 1
+	Query: "scientificname:Carcharhinus plumbeus" ; Times: 1
+	Query: "Dinornis giganteus" ; Times: 1
+	Query: "scientificname:Carcharhinus brachyurus" ; Times: 1
+	Query: "Turdus plumbeus" ; Times: 2
+	Query: "Titanosaurus" ; Times: 1
+	Query: "scientificname:Rhinobatos rhinobatos" ; Times: 2
+	Query: "Calonectris diomedea" ; Times: 1
+	Query: "scientificname:Carcharias taurus" ; Times: 1
+	Query: "vntype:specimen genus:Castor stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "specificepithet:dirus genus:Canis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "scientificname:Sarda sarda" ; Times: 3
+	Query: "scientificname:Crenidens crenidens" ; Times: 1
+	Query: "Dicrostonyx torquatus" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus country:&#34;United States&#34;" ; Times: 1
+	Query: "Moho braccatus" ; Times: 1
+	Query: "scientificname:Melanogrammus aeglefinus" ; Times: 1
+	Query: "chelonia maryland" ; Times: 1
+	Query: "Yeates" ; Times: 2
+	Query: "scientificname:Solea solea" ; Times: 2
+	Query: "scientificname:Diodon hystrix" ; Times: 1
+	Query: "scientificname:Dasyatis centroura" ; Times: 1
+	Query: "specificepithet:cheriway genus:polyborus" ; Times: 1
+	Query: "Stenotomus chrysops" ; Times: 1
+	Query: "scientificname:Trichiurus lepturus" ; Times: 1
+	Query: "scientificname:Mola mola" ; Times: 1
+	Query: "vntype:specimen family:solenodontidae hasmedia:1" ; Times: 1
+	Query: "scientificname:Brama brama" ; Times: 2
+	Query: "Branta sandvicensis" ; Times: 1
+	Query: "Oreomystis bairdi" ; Times: 2
+	Query: "scientificname:Galeocerdo cuvier" ; Times: 1
+	Query: "scientificname:Sphyrna lewini" ; Times: 1
+	Query: "scientificname:Sphyrna zygaena" ; Times: 1
+	Query: "genus:Delphinapterus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "scientificname:Phoca vitulina stateprovince:new york" ; Times: 2
+	Query: "genus:nestor institutioncode:USNM" ; Times: 2
+	Query: "scientificname:Odontaspis ferox" ; Times: 1
+	Query: "genus:Delphinapterus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "scientificname:Squatina squatina" ; Times: 1
+	Query: "Mesoplodon europaeus" ; Times: 2
+	Query: "specificepithet:bellus genus:Dasypus institutioncode:USNM" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "scientificname:Dentex dentex" ; Times: 1
+	Query: "scientificname:Carcharhinus obscurus" ; Times: 1
+	Query: "Aepyornithiformes" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus stateprovince:&#34;Missouri&#34;" ; Times: 2
+	Query: "scientificname:Anthias anthias" ; Times: 1
+	Query: "Pseudonestor xanthophrys" ; Times: 1
+	Query: "scientificname:Carcharodon carcharias" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Mosasaurus" ; Times: 1
+	Query: "scientificname:Merluccius merluccius" ; Times: 2
+	Query: "Pterodroma cahow vntype:specimen" ; Times: 2
+	Query: "Acanthocybium solandri" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Geospiza magnirostris" ; Times: 1
+	Query: "genus:Delphinapterus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:bellus genus:Dasypus stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "scientificname:Sphyraena sphyraena" ; Times: 2
+	Query: "amazona vittata" ; Times: 2
+	Query: "scientificname:Panthera onca" ; Times: 4
+	Query: "Merluccius bilinearis" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "scientificname:Acanthocybium solandri" ; Times: 1
+	Query: "scientificname:Isurus oxyrinchus" ; Times: 1
+	Query: "Latimeria chalumnae" ; Times: 1
+	Query: "scientificname:Tetrapturus albidus" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "scientificname:Pristis pristis" ; Times: 1
+	Query: "Raphus cucullatus" ; Times: 2
+	Query: "scientificname:Pagrus pagrus" ; Times: 2
+	Query: "genus:Delphinapterus stateprovince:&#34;Maryland&#34;" ; Times: 4
+	Query: "genus:erethizon isfossil:1" ; Times: 2
+	Query: "scientificname:Conger conger" ; Times: 2
+	Query: "scientificname:Mustelus mustelus" ; Times: 2
+	Query: "scientificname:Carcharhinus limbatus" ; Times: 1
+	Query: "Fulica chathamensis" ; Times: 1
+	Query: "scientificname:Carcharhinus falciformis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 705 download events in this period)
+Total number of records downloaded: 6113
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 9
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-23 ; Times: 5
+	Date: 2020-12-02 ; Times: 9
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-03 ; Times: 6
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-01 ; Times: 1
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "class:Mammalia country:Brazil" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Anolis krugi" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "class:Reptilia country:Brazil" ; Times: 2
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "class:aves country:Brazil" ; Times: 3
+	Query: "genus:Coluber stateprovince:&#34;Florida&#34; institutioncode:USNM" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Anolis evermanni" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Delphinapterus leucas" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Chihuahua&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+
+
+End of report.
